@@ -1,0 +1,1501 @@
+customer_id,age,annual_income,loan_amount,interest_rate,credit_score,dti_ratio,utilization_rate,employment_length_years,grade,purpose,home_ownership,region,loan_status,default_flag
+C100000,43,33823,20672,13.6,689,18.1,55.2,6,E,home_improvement,MORTGAGE,West,Current,0
+C100001,37,59140,17626,8.87,640,8.2,50.2,0,C,debt_consolidation,RENT,West,Current,0
+C100002,45,68665,25604,12.3,589,32.2,76.1,4,E,debt_consolidation,RENT,Atlantic,Current,0
+C100003,28,42988,13681,9.47,683,19.0,35.0,2,D,home_improvement,OWN,West,Current,0
+C100004,23,60642,24903,5.0,778,28.4,43.7,6,A,major_purchase,MORTGAGE,Ontario,Current,0
+C100005,28,29145,21769,19.23,594,32.5,64.8,14,G,debt_consolidation,RENT,West,Charged Off,1
+C100006,23,112923,17916,12.82,565,15.4,52.0,15,E,debt_consolidation,MORTGAGE,West,Charged Off,1
+C100007,57,44058,15795,14.64,561,20.4,74.7,15,E,major_purchase,MORTGAGE,Ontario,Current,0
+C100008,49,149362,34987,7.15,646,15.8,55.2,1,A,debt_consolidation,RENT,Ontario,Current,0
+C100009,29,59006,12281,10.02,583,28.7,71.9,7,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100010,47,95094,20086,7.64,708,19.6,50.8,0,B,small_business,MORTGAGE,Ontario,Current,0
+C100011,43,58455,12748,16.16,676,23.7,56.8,7,F,major_purchase,RENT,Ontario,Current,0
+C100012,26,59052,30499,11.5,657,18.1,40.2,9,D,credit_card,OWN,Atlantic,Current,0
+C100013,66,46036,24208,15.44,512,20.6,52.3,12,E,credit_card,RENT,Prairies,Charged Off,1
+C100014,65,63171,13252,12.25,670,27.1,72.5,5,C,debt_consolidation,RENT,Prairies,Current,0
+C100015,56,69085,21588,9.74,693,16.5,60.0,0,B,debt_consolidation,RENT,Prairies,Current,0
+C100016,59,42070,19804,7.42,795,15.2,21.7,7,C,small_business,MORTGAGE,Ontario,Current,0
+C100017,46,56598,14384,5.48,644,11.0,55.9,6,A,major_purchase,MORTGAGE,Prairies,Current,0
+C100018,58,45499,23307,14.0,615,17.1,12.4,9,E,debt_consolidation,OWN,Ontario,Current,0
+C100019,45,168527,20725,12.56,752,9.7,33.3,1,D,debt_consolidation,RENT,Prairies,Current,0
+C100020,28,57505,19510,9.93,683,14.2,66.7,9,D,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C100021,28,120013,17707,5.91,733,27.0,43.0,6,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100022,61,54829,21017,19.57,598,22.6,58.6,11,G,debt_consolidation,RENT,Ontario,Current,0
+C100023,41,67284,19606,15.33,632,27.4,1.0,15,F,debt_consolidation,RENT,Ontario,Current,0
+C100024,55,33037,18414,12.22,679,3.6,42.7,3,E,small_business,MORTGAGE,Prairies,Current,0
+C100025,27,48963,13513,6.68,657,20.5,57.7,12,B,debt_consolidation,RENT,Ontario,Current,0
+C100026,42,65824,29856,10.47,728,16.9,54.0,2,C,home_improvement,MORTGAGE,Prairies,Current,0
+C100027,24,122235,10647,5.01,648,11.6,69.7,15,A,credit_card,MORTGAGE,Ontario,Current,0
+C100028,31,66164,20993,6.29,742,16.3,40.7,7,A,major_purchase,RENT,Prairies,Current,0
+C100029,26,111600,15758,10.83,668,16.0,47.7,11,D,vacation,OTHER,West,Current,0
+C100030,30,79884,30317,9.91,624,4.6,30.4,12,D,credit_card,MORTGAGE,West,Current,0
+C100031,49,124534,11676,19.71,591,30.5,53.4,9,G,debt_consolidation,MORTGAGE,Ontario,Late (31-120 days),1
+C100032,21,58304,12853,8.48,668,18.2,28.0,6,B,small_business,MORTGAGE,Atlantic,Current,0
+C100033,30,175536,11211,7.6,643,14.3,19.5,12,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100034,53,48126,20264,9.37,661,11.2,31.7,7,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100035,28,42408,8389,9.76,641,6.2,80.1,10,B,debt_consolidation,RENT,Prairies,Current,0
+C100036,47,34734,14650,6.71,742,16.6,39.6,9,A,major_purchase,RENT,Atlantic,Current,0
+C100037,61,170922,2933,11.38,617,29.3,58.9,7,C,debt_consolidation,RENT,Ontario,Late (31-120 days),1
+C100038,57,86574,19683,7.3,741,17.9,35.3,1,B,credit_card,MORTGAGE,West,Current,0
+C100039,26,51516,14498,12.06,593,9.8,24.7,4,D,credit_card,MORTGAGE,Ontario,Current,0
+C100040,27,105036,7584,10.48,649,19.6,69.1,15,C,home_improvement,RENT,Ontario,Current,0
+C100041,54,81590,25599,13.34,602,20.6,17.1,8,E,debt_consolidation,OWN,Ontario,Current,0
+C100042,37,145039,8846,11.89,731,25.5,35.4,10,D,major_purchase,RENT,Ontario,Current,0
+C100043,40,29836,23579,7.3,720,20.7,45.4,4,B,small_business,RENT,Ontario,Current,0
+C100044,43,53135,13093,14.48,624,1.0,58.5,11,E,credit_card,RENT,Ontario,Current,0
+C100045,48,48624,29211,12.41,663,24.8,38.0,7,E,credit_card,MORTGAGE,West,Current,0
+C100046,42,25000,23247,8.69,586,9.5,24.4,3,B,major_purchase,RENT,West,Current,0
+C100047,22,96485,10944,8.37,700,6.5,33.6,2,B,small_business,MORTGAGE,Prairies,Current,0
+C100048,25,53015,11580,11.76,768,18.2,28.9,6,D,credit_card,MORTGAGE,West,Current,0
+C100049,21,83519,22239,6.54,731,17.9,31.5,9,A,debt_consolidation,RENT,Prairies,Current,0
+C100050,33,173147,16163,7.56,706,5.0,65.0,4,B,debt_consolidation,OTHER,Ontario,Current,0
+C100051,59,51074,16815,5.2,754,19.9,21.7,3,A,debt_consolidation,RENT,Ontario,Current,0
+C100052,66,49537,26906,14.65,685,26.3,54.7,4,E,debt_consolidation,MORTGAGE,West,Current,0
+C100053,43,63158,12759,12.7,548,19.8,63.5,4,D,debt_consolidation,RENT,West,Current,0
+C100054,22,93364,18639,11.39,565,13.4,76.5,11,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100055,24,46396,24682,13.29,648,14.1,49.9,7,E,major_purchase,OWN,Ontario,Current,0
+C100056,59,45074,23664,9.78,641,25.2,67.2,7,C,small_business,RENT,West,Current,0
+C100057,37,96349,16883,9.34,752,7.4,40.6,2,C,major_purchase,RENT,Ontario,Current,0
+C100058,62,70997,15978,7.83,707,22.5,55.2,8,A,home_improvement,RENT,West,Current,0
+C100059,44,25000,5828,6.38,618,13.8,27.8,15,A,home_improvement,RENT,West,Current,0
+C100060,62,34495,10606,12.02,588,18.8,9.8,11,D,debt_consolidation,OTHER,Ontario,Late (31-120 days),1
+C100061,27,117660,20229,8.88,529,6.0,69.0,7,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100062,61,71745,17035,10.89,667,17.0,58.5,4,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100063,46,42489,18524,13.27,626,25.3,62.7,5,E,credit_card,OWN,Ontario,Charged Off,1
+C100064,41,55454,25275,11.22,635,10.1,44.0,0,D,medical,OWN,Atlantic,Current,0
+C100065,45,60232,9689,10.93,739,21.5,71.6,0,C,major_purchase,MORTGAGE,West,Current,0
+C100066,36,83373,16347,10.46,746,18.6,35.9,12,C,debt_consolidation,RENT,Ontario,Charged Off,1
+C100067,49,32493,19321,5.0,693,12.0,56.2,13,B,small_business,RENT,West,Current,0
+C100068,57,41010,13071,5.81,607,21.0,66.5,15,A,debt_consolidation,RENT,Ontario,Late (31-120 days),1
+C100069,59,67699,28020,10.15,714,2.6,77.8,10,C,debt_consolidation,RENT,Prairies,Current,0
+C100070,66,57244,24360,7.59,733,18.9,39.5,14,B,debt_consolidation,RENT,Prairies,Current,0
+C100071,40,77446,20031,10.19,697,29.3,36.5,6,C,debt_consolidation,RENT,West,Current,0
+C100072,57,34431,30560,11.83,690,31.1,21.9,4,E,home_improvement,RENT,Ontario,Current,0
+C100073,62,70313,7508,5.0,638,19.2,81.1,3,B,credit_card,RENT,Prairies,Current,0
+C100074,21,97852,17946,5.0,834,12.9,44.4,3,A,debt_consolidation,RENT,Atlantic,Current,0
+C100075,43,74538,20564,8.34,649,12.0,60.4,11,B,vacation,RENT,Prairies,Current,0
+C100076,53,63742,11598,5.0,743,14.4,100.0,0,B,credit_card,RENT,Ontario,Current,0
+C100077,42,57346,20105,10.99,565,23.3,65.1,15,D,credit_card,MORTGAGE,Ontario,Current,0
+C100078,25,41123,10254,7.69,629,12.3,30.5,12,C,credit_card,MORTGAGE,Prairies,Current,0
+C100079,51,57965,22834,13.71,719,26.3,42.9,6,E,credit_card,MORTGAGE,Ontario,Current,0
+C100080,40,105542,25405,14.35,644,34.4,35.1,11,D,credit_card,RENT,Ontario,Current,0
+C100081,50,56751,19906,9.74,726,17.6,38.7,2,C,home_improvement,RENT,Ontario,Current,0
+C100082,21,40118,5030,13.87,649,11.6,45.0,6,E,major_purchase,RENT,Prairies,Current,0
+C100083,21,47978,11232,7.01,718,5.6,35.9,1,A,debt_consolidation,RENT,Ontario,Current,0
+C100084,49,65538,21953,6.03,799,20.4,14.7,1,A,credit_card,RENT,Ontario,Current,0
+C100085,67,50611,18148,5.74,711,14.6,75.7,0,A,debt_consolidation,OWN,Prairies,Current,0
+C100086,51,74487,2000,13.11,560,25.6,65.0,12,D,major_purchase,RENT,Ontario,Current,0
+C100087,65,75757,26700,10.57,636,14.3,49.3,11,C,debt_consolidation,RENT,Prairies,Current,0
+C100088,60,89326,18957,6.35,754,20.8,57.1,14,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100089,34,113619,12266,9.83,702,16.9,56.3,15,C,vacation,MORTGAGE,Ontario,Current,0
+C100090,25,93727,24965,5.58,638,9.9,58.1,15,A,credit_card,RENT,Atlantic,Current,0
+C100091,47,39324,13257,13.1,618,16.7,67.2,15,D,debt_consolidation,RENT,Prairies,Current,0
+C100092,50,39871,13181,9.6,648,9.6,54.7,0,C,debt_consolidation,OWN,West,Current,0
+C100093,57,57867,20508,9.48,682,30.4,61.6,12,B,credit_card,RENT,West,Charged Off,1
+C100094,45,48873,30467,6.74,626,15.8,67.7,11,B,vacation,MORTGAGE,Ontario,Current,0
+C100095,64,35873,29365,13.72,623,24.0,57.3,2,D,credit_card,MORTGAGE,Prairies,Current,0
+C100096,60,49082,20518,8.57,662,12.7,47.2,2,B,debt_consolidation,RENT,Prairies,Current,0
+C100097,48,48362,21237,5.0,766,7.6,70.0,15,A,credit_card,MORTGAGE,West,Current,0
+C100098,46,44253,23540,6.61,769,13.4,33.6,14,A,credit_card,RENT,Atlantic,Current,0
+C100099,21,51943,9201,17.22,584,31.7,64.7,5,G,debt_consolidation,RENT,Prairies,Current,0
+C100100,57,101753,22509,16.04,592,18.9,64.5,1,F,major_purchase,RENT,Ontario,Current,0
+C100101,52,65490,12861,11.42,666,13.4,39.9,5,D,debt_consolidation,OTHER,West,Current,0
+C100102,63,182101,20229,7.84,657,17.6,37.0,0,B,major_purchase,RENT,West,Current,0
+C100103,25,64649,16408,19.13,529,27.5,55.9,10,G,small_business,RENT,West,Late (31-120 days),1
+C100104,27,52547,21508,14.62,584,32.5,48.8,6,E,debt_consolidation,OWN,Prairies,Current,0
+C100105,52,59986,18827,10.65,623,22.0,28.2,0,D,small_business,RENT,Ontario,Current,0
+C100106,43,67200,2000,8.72,616,22.5,43.3,15,C,small_business,OWN,West,Charged Off,1
+C100107,48,72829,19252,8.32,711,21.5,51.9,13,B,home_improvement,MORTGAGE,Prairies,Current,0
+C100108,41,152439,22495,6.41,764,6.9,65.5,14,A,credit_card,MORTGAGE,West,Current,0
+C100109,51,40929,21121,15.19,527,15.8,72.4,15,F,debt_consolidation,MORTGAGE,Prairies,Charged Off,1
+C100110,51,88130,17282,11.91,681,10.4,2.8,0,C,debt_consolidation,MORTGAGE,West,Current,0
+C100111,29,65742,29495,8.98,690,7.2,60.4,12,B,small_business,RENT,West,Current,0
+C100112,56,29525,20180,7.25,721,22.1,36.2,12,B,debt_consolidation,OTHER,West,Current,0
+C100113,44,84695,21064,9.13,679,20.0,57.9,12,C,debt_consolidation,OWN,Ontario,Current,0
+C100114,48,105919,25311,5.73,644,15.6,52.4,4,A,credit_card,OWN,Atlantic,Current,0
+C100115,50,40712,20538,13.6,567,2.9,55.6,6,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100116,55,59634,11714,13.51,660,33.9,49.5,14,D,small_business,MORTGAGE,West,Current,0
+C100117,35,27545,2000,13.18,715,13.2,46.3,1,D,major_purchase,MORTGAGE,Atlantic,Current,0
+C100118,21,33980,14660,10.04,558,32.4,84.0,10,C,major_purchase,RENT,Atlantic,Current,0
+C100119,29,95953,23327,12.81,677,9.4,49.6,12,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100120,66,48538,15528,10.99,745,12.3,63.8,12,C,credit_card,MORTGAGE,West,Current,0
+C100121,31,36353,23608,12.07,650,4.1,69.1,9,D,major_purchase,MORTGAGE,Ontario,Current,0
+C100122,32,66387,19041,6.48,754,17.5,55.5,12,A,credit_card,RENT,Atlantic,Current,0
+C100123,61,47331,27016,10.71,641,10.3,20.8,14,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100124,32,48442,15933,6.59,717,7.5,66.7,12,A,credit_card,MORTGAGE,Ontario,Current,0
+C100125,42,83508,21273,9.07,591,8.4,48.8,1,C,debt_consolidation,RENT,Ontario,Current,0
+C100126,38,35498,21541,7.19,573,21.9,71.5,3,B,debt_consolidation,OWN,Atlantic,Current,0
+C100127,52,39838,28511,5.65,776,20.0,24.2,4,A,home_improvement,MORTGAGE,West,Current,0
+C100128,48,64173,6054,5.15,670,27.7,29.2,5,A,debt_consolidation,RENT,West,Current,0
+C100129,45,92618,14791,8.23,655,13.2,87.3,5,C,major_purchase,RENT,Ontario,Current,0
+C100130,44,104524,23940,6.81,648,16.5,35.1,3,A,credit_card,MORTGAGE,West,Current,0
+C100131,60,44388,28821,16.42,536,13.5,82.3,10,F,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C100132,48,91292,19681,8.39,670,15.7,52.6,1,C,home_improvement,OWN,Prairies,Charged Off,1
+C100133,44,42072,15951,7.71,662,12.9,43.6,12,B,credit_card,RENT,West,Current,0
+C100134,62,136188,23300,9.78,701,21.3,47.1,10,C,debt_consolidation,RENT,West,Current,0
+C100135,25,35947,24081,6.22,749,22.1,20.5,15,A,vacation,RENT,Ontario,Current,0
+C100136,60,108860,15482,16.7,610,30.9,55.3,0,G,home_improvement,MORTGAGE,Prairies,Current,0
+C100137,30,44560,20312,8.38,693,12.1,29.1,4,C,credit_card,OWN,Ontario,Current,0
+C100138,36,148147,26264,14.62,723,28.0,39.0,14,E,major_purchase,OWN,Prairies,Current,0
+C100139,21,78127,31233,5.0,665,14.7,67.6,7,A,credit_card,MORTGAGE,Atlantic,Current,0
+C100140,47,37903,23198,9.72,677,15.7,54.5,8,C,credit_card,MORTGAGE,Ontario,Charged Off,1
+C100141,60,47334,18309,9.61,742,13.0,17.8,0,C,debt_consolidation,RENT,Atlantic,Current,0
+C100142,38,85096,17621,15.85,684,18.6,64.7,12,F,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100143,52,96152,21902,10.3,602,30.2,56.0,4,C,credit_card,OWN,West,Current,0
+C100144,39,57999,17190,11.92,663,20.2,41.3,15,C,credit_card,RENT,Ontario,Current,0
+C100145,56,61090,19327,6.08,777,17.7,55.0,5,B,small_business,OWN,Ontario,Current,0
+C100146,67,84226,10595,9.05,730,14.7,42.5,3,B,credit_card,RENT,West,Current,0
+C100147,54,63533,27079,6.99,691,35.1,27.8,9,C,credit_card,RENT,Ontario,Current,0
+C100148,36,33454,10019,11.67,668,27.1,83.9,7,C,major_purchase,MORTGAGE,Ontario,Current,0
+C100149,59,41530,14975,5.0,703,10.0,47.4,7,A,vacation,OWN,West,Current,0
+C100150,22,66556,18683,16.92,652,19.1,50.5,15,E,debt_consolidation,RENT,Ontario,Charged Off,1
+C100151,67,103463,31937,15.53,600,21.0,49.0,5,F,medical,MORTGAGE,West,Charged Off,1
+C100152,60,123895,15041,7.55,722,16.0,67.4,6,A,major_purchase,RENT,West,Current,0
+C100153,51,85032,13338,11.3,684,13.1,39.9,9,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100154,50,68137,14144,5.48,687,18.1,21.3,2,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100155,32,83865,29612,11.57,687,29.7,36.9,13,D,debt_consolidation,RENT,Ontario,Current,0
+C100156,41,44354,2000,7.0,850,7.3,59.4,3,B,home_improvement,MORTGAGE,Ontario,Current,0
+C100157,25,55885,10981,12.94,560,11.6,74.6,3,D,credit_card,MORTGAGE,Atlantic,Current,0
+C100158,36,41322,37119,11.49,676,16.1,45.4,0,D,credit_card,MORTGAGE,Prairies,Charged Off,1
+C100159,48,34135,22136,13.02,594,17.9,81.6,5,E,small_business,RENT,Prairies,Late (31-120 days),1
+C100160,38,69571,10258,6.64,756,29.0,56.8,9,A,debt_consolidation,RENT,Prairies,Current,0
+C100161,57,65087,17707,14.92,617,29.5,50.1,11,F,credit_card,OWN,Ontario,Current,0
+C100162,61,81589,18472,7.61,744,23.1,41.3,14,B,major_purchase,MORTGAGE,Ontario,Current,0
+C100163,47,76554,23923,6.13,789,13.1,46.5,12,A,vacation,MORTGAGE,Ontario,Current,0
+C100164,37,66782,30877,9.23,691,16.0,33.8,5,C,small_business,MORTGAGE,Prairies,Current,0
+C100165,35,76917,20720,7.41,764,6.3,42.7,13,B,debt_consolidation,MORTGAGE,West,Current,0
+C100166,46,58735,14221,15.84,507,26.5,69.6,3,E,debt_consolidation,RENT,Atlantic,Current,0
+C100167,54,72099,23510,13.75,723,24.4,15.7,3,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100168,26,43184,13112,7.57,723,25.5,42.7,5,B,credit_card,MORTGAGE,Prairies,Current,0
+C100169,42,70712,10767,17.79,651,22.5,46.6,8,G,debt_consolidation,RENT,Ontario,Current,0
+C100170,41,80885,5681,8.55,635,15.5,71.9,3,B,medical,RENT,Ontario,Current,0
+C100171,34,44296,7044,8.76,634,19.2,20.3,14,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100172,32,61287,11725,8.51,710,22.7,40.3,4,B,credit_card,OWN,Prairies,Current,0
+C100173,60,45224,9755,16.31,613,12.2,46.6,6,F,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100174,41,47244,20193,5.0,740,20.2,61.9,9,A,credit_card,RENT,West,Current,0
+C100175,48,36090,9604,8.15,784,14.9,40.2,6,A,credit_card,OWN,West,Current,0
+C100176,22,105831,2000,11.75,583,10.6,90.1,6,C,home_improvement,RENT,Ontario,Current,0
+C100177,34,96718,10693,17.04,646,9.4,64.4,15,G,debt_consolidation,RENT,Prairies,Charged Off,1
+C100178,31,76256,14697,14.65,614,21.5,47.8,6,F,major_purchase,OWN,West,Current,0
+C100179,36,145436,13762,12.27,647,29.6,56.7,1,D,debt_consolidation,MORTGAGE,West,Current,0
+C100180,60,54986,28637,14.29,533,34.2,55.5,11,F,debt_consolidation,OWN,Prairies,Current,0
+C100181,47,220000,13705,17.64,642,25.0,68.3,11,F,vacation,MORTGAGE,Ontario,Current,0
+C100182,63,54047,24166,9.44,547,31.7,36.8,3,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100183,40,67160,17867,9.95,738,16.2,30.0,13,B,debt_consolidation,RENT,Ontario,Current,0
+C100184,57,50061,17704,13.01,554,27.7,68.4,6,E,home_improvement,RENT,Atlantic,Late (31-120 days),1
+C100185,28,70795,12152,11.87,661,16.3,73.3,2,D,credit_card,OWN,Prairies,Current,0
+C100186,59,87206,17589,9.52,695,12.9,8.8,2,B,debt_consolidation,OWN,Ontario,Current,0
+C100187,49,56882,12644,5.61,788,10.3,65.4,11,A,debt_consolidation,RENT,West,Current,0
+C100188,22,133189,19190,12.33,648,5.1,49.8,3,D,debt_consolidation,RENT,Prairies,Current,0
+C100189,53,66677,16346,9.31,664,25.5,17.1,7,B,credit_card,RENT,West,Current,0
+C100190,43,67624,11388,15.33,586,18.0,3.5,11,F,debt_consolidation,RENT,West,Current,0
+C100191,21,39773,24943,6.49,772,10.9,14.5,13,B,small_business,OWN,West,Current,0
+C100192,60,72282,20988,5.0,753,6.7,43.2,7,A,major_purchase,RENT,West,Current,0
+C100193,46,56370,14864,14.7,615,19.6,53.9,14,E,debt_consolidation,RENT,Ontario,Current,0
+C100194,49,45538,19018,6.47,711,27.3,58.5,4,A,debt_consolidation,OWN,Ontario,Current,0
+C100195,48,42217,17413,7.27,638,29.7,43.3,13,A,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100196,25,199246,11927,9.67,701,6.4,28.0,4,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100197,36,53180,18493,14.28,517,20.0,55.8,1,F,debt_consolidation,RENT,Ontario,Charged Off,1
+C100198,53,31081,13653,5.18,743,9.3,45.0,11,B,small_business,RENT,West,Current,0
+C100199,36,43730,11385,11.44,709,23.4,51.4,12,B,debt_consolidation,RENT,Ontario,Current,0
+C100200,62,58501,6641,14.63,767,23.0,28.2,14,E,credit_card,RENT,Prairies,Current,0
+C100201,35,76573,15490,18.16,531,19.5,78.3,14,G,home_improvement,RENT,Atlantic,Charged Off,1
+C100202,42,76854,21969,10.33,674,18.5,39.0,1,C,major_purchase,RENT,Atlantic,Current,0
+C100203,41,81184,13137,5.0,823,11.7,22.1,9,A,debt_consolidation,RENT,West,Current,0
+C100204,21,44793,35645,5.05,790,26.3,30.7,11,A,debt_consolidation,RENT,Ontario,Current,0
+C100205,59,69787,24200,10.09,664,20.3,70.3,9,B,vacation,OWN,Ontario,Current,0
+C100206,27,40367,27130,6.79,736,19.7,42.6,0,A,debt_consolidation,RENT,Ontario,Current,0
+C100207,43,45304,23567,11.08,658,1.0,39.0,0,D,home_improvement,RENT,West,Current,0
+C100208,63,39618,30970,5.0,740,14.5,61.3,10,A,home_improvement,OWN,Ontario,Current,0
+C100209,67,35074,12491,9.38,642,32.6,91.4,13,C,credit_card,RENT,Ontario,Current,0
+C100210,31,96654,2000,11.62,653,28.8,55.7,2,D,debt_consolidation,MORTGAGE,Prairies,Charged Off,1
+C100211,38,81624,14877,12.46,592,5.1,79.2,0,C,debt_consolidation,OWN,Ontario,Current,0
+C100212,47,92920,21908,7.77,709,14.3,65.9,6,B,credit_card,MORTGAGE,West,Current,0
+C100213,53,60943,19061,12.57,661,12.6,40.3,5,E,credit_card,RENT,Atlantic,Current,0
+C100214,32,84928,19928,11.93,645,31.5,53.1,15,D,small_business,MORTGAGE,West,Current,0
+C100215,46,27104,27246,12.32,569,21.2,35.8,14,D,home_improvement,MORTGAGE,West,Late (31-120 days),1
+C100216,60,88291,20674,5.0,778,9.6,37.8,8,A,medical,RENT,Prairies,Current,0
+C100217,56,64842,23592,6.48,744,15.2,33.1,15,A,vacation,RENT,Ontario,Current,0
+C100218,59,79396,11423,17.45,574,4.2,51.2,3,F,small_business,RENT,Ontario,Current,0
+C100219,62,71041,10332,8.17,687,8.9,35.6,15,B,debt_consolidation,MORTGAGE,West,Current,0
+C100220,61,38400,29299,7.04,619,16.8,49.6,7,B,credit_card,RENT,West,Current,0
+C100221,45,30512,18706,9.37,624,23.9,63.9,7,C,home_improvement,RENT,Ontario,Late (31-120 days),1
+C100222,66,43459,13637,10.01,628,5.9,51.8,0,D,credit_card,MORTGAGE,Prairies,Current,0
+C100223,44,77204,13650,17.84,660,21.3,17.8,2,G,debt_consolidation,OWN,West,Current,0
+C100224,54,81678,13456,8.37,667,23.6,37.3,3,B,credit_card,RENT,Atlantic,Current,0
+C100225,65,32352,13037,14.92,649,12.3,24.9,7,F,debt_consolidation,RENT,West,Current,0
+C100226,23,38504,9018,8.33,694,16.6,52.9,3,A,debt_consolidation,RENT,Ontario,Current,0
+C100227,64,43241,7497,10.95,694,18.5,57.6,1,C,major_purchase,MORTGAGE,West,Current,0
+C100228,59,50981,16635,9.85,650,31.5,56.8,9,D,credit_card,MORTGAGE,Ontario,Current,0
+C100229,67,32438,13850,5.0,772,13.4,27.8,13,A,credit_card,OWN,Ontario,Current,0
+C100230,57,31574,25750,5.0,695,13.8,52.9,1,A,credit_card,RENT,Prairies,Current,0
+C100231,28,41364,20052,11.89,594,24.0,48.4,8,C,credit_card,RENT,Ontario,Current,0
+C100232,35,62244,19857,19.07,516,14.7,42.8,15,G,debt_consolidation,RENT,Atlantic,Charged Off,1
+C100233,21,35198,12798,11.95,651,16.5,65.4,6,C,credit_card,RENT,Ontario,Late (31-120 days),1
+C100234,49,56834,17153,16.01,545,19.3,75.6,2,F,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100235,41,96408,20527,13.75,659,20.0,68.5,1,E,home_improvement,MORTGAGE,Prairies,Current,0
+C100236,43,33330,23013,8.5,654,23.9,40.9,14,C,debt_consolidation,RENT,Atlantic,Current,0
+C100237,55,54562,17343,14.42,767,24.9,63.6,6,E,vacation,MORTGAGE,West,Current,0
+C100238,59,94953,25554,5.76,628,9.8,45.1,1,A,small_business,RENT,West,Current,0
+C100239,24,49602,18056,5.72,735,16.0,56.8,13,A,credit_card,MORTGAGE,West,Current,0
+C100240,64,46251,23550,15.94,574,31.4,49.3,12,E,debt_consolidation,RENT,Ontario,Current,0
+C100241,38,101070,14571,13.85,609,15.2,51.6,11,E,credit_card,MORTGAGE,West,Current,0
+C100242,56,52167,5312,9.6,710,17.5,3.6,1,B,small_business,RENT,Prairies,Current,0
+C100243,48,98422,19879,8.09,552,16.6,54.9,1,C,home_improvement,OWN,Ontario,Current,0
+C100244,41,72623,23077,15.23,671,19.1,52.1,3,D,home_improvement,OWN,West,Current,0
+C100245,30,51314,22027,13.55,741,9.6,37.2,2,E,major_purchase,MORTGAGE,Prairies,Current,0
+C100246,29,74300,20955,12.85,633,29.4,85.2,8,D,credit_card,OWN,Ontario,Current,0
+C100247,55,69162,15560,11.04,694,12.6,27.6,6,C,home_improvement,RENT,West,Current,0
+C100248,36,94788,12353,7.4,758,23.7,33.0,12,B,credit_card,MORTGAGE,Atlantic,Current,0
+C100249,31,46782,21862,10.98,671,13.7,34.1,1,C,home_improvement,RENT,West,Current,0
+C100250,21,60995,20985,13.05,626,15.1,44.0,11,D,credit_card,OWN,Ontario,Current,0
+C100251,60,58239,14074,13.14,511,29.5,82.3,14,E,small_business,RENT,Ontario,Late (31-120 days),1
+C100252,39,82196,25766,9.16,715,25.0,73.4,2,C,debt_consolidation,RENT,West,Current,0
+C100253,37,37747,11820,8.05,696,18.0,35.7,10,B,debt_consolidation,MORTGAGE,West,Current,0
+C100254,38,94621,13915,7.86,646,21.8,39.5,8,B,debt_consolidation,RENT,Ontario,Current,0
+C100255,49,73854,29455,13.67,665,17.5,30.1,1,D,medical,MORTGAGE,Prairies,Current,0
+C100256,43,33103,24080,14.84,604,20.9,79.5,4,E,credit_card,RENT,West,Charged Off,1
+C100257,46,103127,15494,5.92,695,10.4,68.6,12,A,credit_card,MORTGAGE,Atlantic,Current,0
+C100258,34,163627,20012,6.73,757,21.3,41.3,13,A,credit_card,OWN,Ontario,Current,0
+C100259,34,93979,19084,7.54,606,13.1,30.7,5,C,credit_card,MORTGAGE,Atlantic,Current,0
+C100260,61,113794,2000,5.26,782,25.4,17.6,1,A,major_purchase,RENT,West,Current,0
+C100261,41,62219,11655,14.35,559,18.8,62.8,3,E,vacation,RENT,West,Current,0
+C100262,66,28348,17644,9.34,666,16.6,60.7,13,B,major_purchase,RENT,Ontario,Current,0
+C100263,60,26112,15504,6.24,830,20.3,1.0,9,A,major_purchase,RENT,Prairies,Current,0
+C100264,54,67157,19730,17.75,676,22.7,44.2,6,F,debt_consolidation,MORTGAGE,West,Current,0
+C100265,46,45872,25906,7.04,729,12.9,74.7,0,A,debt_consolidation,RENT,West,Current,0
+C100266,60,39674,15749,7.41,650,16.3,48.3,12,B,credit_card,RENT,West,Current,0
+C100267,23,58207,10596,5.83,695,21.3,75.2,7,A,home_improvement,RENT,Ontario,Charged Off,1
+C100268,44,78985,20274,6.49,728,10.4,57.3,8,A,debt_consolidation,OWN,Prairies,Current,0
+C100269,54,31140,15714,5.46,726,14.1,26.3,13,A,small_business,RENT,Atlantic,Current,0
+C100270,26,48923,16908,7.84,719,15.1,41.1,8,A,debt_consolidation,RENT,West,Current,0
+C100271,29,118118,15958,5.0,722,21.1,43.9,14,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100272,24,36906,33693,6.38,712,14.3,29.9,8,A,debt_consolidation,RENT,Prairies,Current,0
+C100273,43,88556,2315,10.88,601,30.7,38.8,5,C,major_purchase,OWN,Ontario,Current,0
+C100274,46,48140,15282,11.62,630,18.4,81.0,14,D,small_business,RENT,Atlantic,Current,0
+C100275,43,76543,17974,7.35,752,14.8,26.1,10,B,credit_card,MORTGAGE,Ontario,Current,0
+C100276,23,98105,12532,7.91,627,15.3,73.5,12,B,major_purchase,MORTGAGE,West,Current,0
+C100277,43,83581,24299,10.97,670,8.8,42.6,3,C,major_purchase,MORTGAGE,Prairies,Current,0
+C100278,62,90140,23693,15.4,569,15.2,58.5,10,F,credit_card,MORTGAGE,Ontario,Current,0
+C100279,22,35660,17666,12.72,642,17.3,62.9,8,E,small_business,MORTGAGE,West,Current,0
+C100280,57,98829,16105,7.38,703,23.0,37.0,1,A,debt_consolidation,RENT,Ontario,Current,0
+C100281,33,40794,17216,8.48,783,16.3,51.3,4,B,credit_card,MORTGAGE,Prairies,Current,0
+C100282,24,67292,17266,9.21,730,13.1,8.7,14,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100283,23,67253,17451,8.91,630,25.1,61.7,9,B,credit_card,MORTGAGE,Prairies,Current,0
+C100284,21,74481,16684,12.62,717,28.9,2.1,12,C,credit_card,MORTGAGE,Prairies,Current,0
+C100285,40,69677,19767,11.34,637,26.8,49.2,2,C,debt_consolidation,RENT,Atlantic,Current,0
+C100286,44,40957,23272,5.13,692,9.0,64.0,3,A,credit_card,RENT,Ontario,Current,0
+C100287,50,32616,9388,8.56,719,13.0,57.6,15,B,home_improvement,RENT,Atlantic,Current,0
+C100288,24,88659,10645,9.33,653,30.7,28.5,6,C,home_improvement,RENT,Ontario,Current,0
+C100289,51,65096,5760,5.46,773,16.7,20.9,14,A,debt_consolidation,RENT,Prairies,Current,0
+C100290,55,100430,24065,12.3,593,19.1,44.5,12,E,debt_consolidation,RENT,Ontario,Charged Off,1
+C100291,24,58681,19752,5.66,690,20.0,52.2,5,A,credit_card,MORTGAGE,Prairies,Current,0
+C100292,52,31814,21537,16.65,578,29.6,21.6,15,F,major_purchase,MORTGAGE,Ontario,Current,0
+C100293,26,92481,7994,5.92,693,11.0,48.3,12,A,major_purchase,MORTGAGE,West,Current,0
+C100294,41,50682,30495,12.68,696,22.5,53.9,2,E,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100295,52,69836,13738,14.17,649,29.0,47.2,1,F,home_improvement,RENT,Ontario,Current,0
+C100296,61,44741,19177,20.53,686,15.9,58.6,2,G,credit_card,RENT,Ontario,Current,0
+C100297,45,125484,23981,14.39,761,21.1,46.9,11,E,vacation,MORTGAGE,Ontario,Current,0
+C100298,41,40358,11091,13.01,579,13.2,48.3,2,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100299,60,51439,14176,12.55,662,12.6,16.3,4,D,credit_card,MORTGAGE,Ontario,Current,0
+C100300,31,62840,19254,16.63,571,17.1,61.2,6,E,credit_card,MORTGAGE,Ontario,Charged Off,1
+C100301,30,36626,38002,6.74,681,18.3,32.4,2,A,debt_consolidation,MORTGAGE,West,Current,0
+C100302,42,69476,20108,6.66,645,15.7,42.2,5,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100303,26,123668,29245,13.18,622,13.5,63.1,10,C,debt_consolidation,MORTGAGE,Prairies,Late (31-120 days),1
+C100304,22,48016,26440,11.78,578,21.4,83.7,15,E,credit_card,MORTGAGE,Ontario,Current,0
+C100305,38,71526,20576,9.75,672,10.0,49.6,7,C,home_improvement,RENT,Ontario,Current,0
+C100306,28,25000,11076,6.64,635,19.5,63.4,11,B,home_improvement,RENT,West,Current,0
+C100307,50,58834,25418,11.11,704,27.4,21.7,8,D,debt_consolidation,RENT,Ontario,Current,0
+C100308,46,52007,7513,8.34,652,15.9,56.4,7,B,major_purchase,MORTGAGE,Ontario,Current,0
+C100309,43,41427,29206,5.0,850,13.6,34.4,8,A,credit_card,MORTGAGE,Ontario,Current,0
+C100310,44,97407,19400,9.89,655,20.6,73.9,15,C,vacation,RENT,Ontario,Current,0
+C100311,25,51699,2000,11.38,684,3.8,39.6,0,C,debt_consolidation,RENT,Ontario,Current,0
+C100312,39,55278,15616,6.99,631,20.3,49.4,8,B,major_purchase,MORTGAGE,Ontario,Charged Off,1
+C100313,24,50527,22578,6.33,796,38.2,59.1,0,B,medical,RENT,West,Current,0
+C100314,37,25272,16341,7.83,764,15.6,41.0,14,B,major_purchase,MORTGAGE,West,Current,0
+C100315,52,35976,23005,7.59,718,15.7,26.5,9,B,major_purchase,RENT,Ontario,Current,0
+C100316,67,92272,12050,7.29,628,21.7,99.9,0,B,credit_card,RENT,West,Current,0
+C100317,34,25000,8858,10.57,670,31.0,31.1,9,D,home_improvement,RENT,West,Current,0
+C100318,33,42411,17500,8.62,640,23.3,51.8,6,B,credit_card,RENT,West,Current,0
+C100319,52,50017,18221,16.71,694,7.4,54.7,0,F,credit_card,RENT,Prairies,Current,0
+C100320,64,131220,15561,14.72,659,26.4,56.2,15,F,vacation,RENT,Atlantic,Current,0
+C100321,34,84615,26591,8.89,685,36.0,45.8,6,C,debt_consolidation,RENT,West,Charged Off,1
+C100322,60,46596,12049,8.16,568,20.9,55.7,0,B,credit_card,RENT,Prairies,Current,0
+C100323,35,107692,20192,8.84,626,9.9,49.9,9,C,medical,MORTGAGE,Atlantic,Current,0
+C100324,51,42906,18476,14.21,674,23.0,30.1,6,E,debt_consolidation,RENT,Atlantic,Current,0
+C100325,30,94287,7103,13.76,725,10.5,84.6,10,D,debt_consolidation,RENT,West,Current,0
+C100326,33,32484,8767,13.93,697,29.6,44.3,2,E,debt_consolidation,RENT,Atlantic,Current,0
+C100327,67,97048,18083,8.54,592,11.3,67.7,13,C,small_business,OWN,West,Current,0
+C100328,39,49873,31868,12.47,675,20.0,44.1,6,D,major_purchase,MORTGAGE,Ontario,Current,0
+C100329,21,37691,22055,7.79,758,10.5,36.8,6,B,debt_consolidation,OTHER,West,Current,0
+C100330,57,54300,5921,11.82,567,15.7,50.9,12,D,home_improvement,OWN,Prairies,Current,0
+C100331,26,67833,2000,8.57,702,26.9,19.9,8,B,credit_card,RENT,West,Current,0
+C100332,26,47924,23131,12.83,673,20.2,47.4,0,D,home_improvement,MORTGAGE,Ontario,Current,0
+C100333,60,76825,17327,14.04,619,17.1,47.4,9,E,home_improvement,RENT,West,Current,0
+C100334,37,46058,25989,5.93,622,7.0,75.6,10,A,medical,OWN,Ontario,Current,0
+C100335,27,79155,11835,14.48,640,6.4,31.5,4,D,debt_consolidation,RENT,Ontario,Current,0
+C100336,66,73057,20451,7.44,706,6.2,37.1,2,A,debt_consolidation,RENT,West,Current,0
+C100337,34,58255,23923,13.0,650,20.3,36.0,0,D,credit_card,OWN,Atlantic,Current,0
+C100338,50,49088,14868,6.16,693,21.9,74.5,13,A,credit_card,OWN,Prairies,Current,0
+C100339,33,64100,15017,14.79,590,18.6,41.5,0,F,credit_card,OWN,West,Current,0
+C100340,48,76697,18177,7.35,722,26.0,56.3,9,A,debt_consolidation,RENT,West,Current,0
+C100341,53,151420,21799,18.17,616,19.0,72.5,13,G,debt_consolidation,RENT,Prairies,Current,0
+C100342,56,91376,17900,13.31,619,19.3,52.1,5,E,medical,RENT,West,Current,0
+C100343,40,92892,24818,9.71,657,10.4,26.8,3,C,debt_consolidation,RENT,Ontario,Current,0
+C100344,49,220000,14766,12.84,641,27.9,28.4,11,E,credit_card,MORTGAGE,Ontario,Current,0
+C100345,60,75522,8701,15.27,530,35.7,77.6,10,E,small_business,RENT,Prairies,Current,0
+C100346,60,74465,31839,16.82,640,10.2,30.3,0,F,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100347,56,82191,13768,8.22,702,14.1,54.9,9,B,debt_consolidation,RENT,Ontario,Current,0
+C100348,39,38024,14021,9.95,682,26.9,51.6,0,C,credit_card,MORTGAGE,Prairies,Current,0
+C100349,45,49033,17539,5.18,777,4.9,48.4,6,A,credit_card,OWN,Ontario,Current,0
+C100350,66,47678,18470,9.44,551,23.5,68.9,4,D,debt_consolidation,MORTGAGE,Atlantic,Late (31-120 days),1
+C100351,32,80132,15293,5.0,615,23.6,38.3,13,A,home_improvement,RENT,West,Current,0
+C100352,53,55360,17878,9.11,695,18.5,30.9,15,C,debt_consolidation,RENT,Ontario,Current,0
+C100353,58,63717,17722,8.93,680,21.9,62.5,11,C,debt_consolidation,RENT,Atlantic,Current,0
+C100354,43,97670,19224,10.35,689,30.3,37.6,11,C,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C100355,61,88293,2000,10.97,655,31.6,2.2,0,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100356,41,55672,31166,13.85,673,20.6,61.9,1,E,credit_card,RENT,Prairies,Charged Off,1
+C100357,60,44289,16969,15.69,687,17.3,30.4,12,E,medical,OTHER,Ontario,Current,0
+C100358,51,99795,22064,9.06,707,11.6,55.8,6,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100359,23,84817,8353,9.84,666,24.8,75.9,8,C,credit_card,OWN,West,Current,0
+C100360,59,29062,14703,15.94,498,12.9,65.1,11,F,credit_card,RENT,Atlantic,Charged Off,1
+C100361,53,52004,13294,7.31,766,13.2,60.4,5,A,home_improvement,OWN,West,Current,0
+C100362,31,64504,28288,6.13,791,15.7,43.2,10,A,home_improvement,RENT,Atlantic,Current,0
+C100363,54,85006,13899,6.16,759,11.5,71.7,11,A,debt_consolidation,RENT,Ontario,Current,0
+C100364,45,90178,23307,10.01,610,21.5,36.4,3,D,home_improvement,OWN,Atlantic,Current,0
+C100365,65,68034,13447,8.92,717,36.0,46.4,10,C,debt_consolidation,OWN,Atlantic,Current,0
+C100366,35,77914,14832,15.32,683,20.1,61.5,2,E,small_business,MORTGAGE,Ontario,Current,0
+C100367,33,61627,16281,9.51,744,16.5,40.9,4,D,debt_consolidation,RENT,Atlantic,Current,0
+C100368,23,44213,26987,9.61,654,23.6,72.6,12,B,home_improvement,RENT,Ontario,Current,0
+C100369,57,53233,4771,16.6,602,24.2,48.4,15,F,home_improvement,MORTGAGE,Ontario,Current,0
+C100370,67,60388,8790,13.1,677,31.1,87.2,1,E,home_improvement,OWN,Ontario,Current,0
+C100371,53,58947,4369,7.0,705,17.7,85.8,10,B,debt_consolidation,RENT,West,Current,0
+C100372,38,25629,10387,10.28,641,14.8,58.0,9,B,home_improvement,RENT,West,Current,0
+C100373,62,50068,12319,9.69,725,4.0,55.9,9,B,small_business,MORTGAGE,Prairies,Current,0
+C100374,32,61408,6699,5.86,756,3.7,64.8,12,A,credit_card,MORTGAGE,Prairies,Current,0
+C100375,53,52753,12861,6.16,729,2.2,24.2,1,A,debt_consolidation,RENT,West,Current,0
+C100376,49,53580,3897,15.22,626,25.2,30.6,11,F,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100377,61,74578,10874,10.16,666,8.5,73.4,4,C,debt_consolidation,OTHER,Ontario,Current,0
+C100378,66,36845,26403,7.19,783,25.3,46.0,2,B,small_business,RENT,Ontario,Current,0
+C100379,37,28778,20825,11.91,608,19.7,51.6,7,D,credit_card,MORTGAGE,Atlantic,Current,0
+C100380,25,51191,19312,12.17,648,16.3,52.5,0,C,home_improvement,MORTGAGE,Atlantic,Current,0
+C100381,28,84445,10981,15.89,615,16.6,12.1,10,F,small_business,MORTGAGE,Atlantic,Current,0
+C100382,55,127951,7247,12.74,684,25.4,45.9,9,E,home_improvement,OWN,Ontario,Current,0
+C100383,38,85132,10026,8.36,598,12.4,42.9,8,C,home_improvement,MORTGAGE,West,Current,0
+C100384,27,30924,17698,8.15,630,9.6,70.4,0,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C100385,59,53930,24077,17.09,480,32.3,84.2,12,G,credit_card,RENT,West,Late (31-120 days),1
+C100386,51,67204,24317,12.3,660,22.0,61.7,0,D,debt_consolidation,MORTGAGE,West,Current,0
+C100387,27,64855,22414,16.06,530,22.4,69.3,4,G,major_purchase,RENT,Prairies,Late (31-120 days),1
+C100388,54,76320,12837,6.83,703,19.5,20.8,6,A,vacation,RENT,Ontario,Current,0
+C100389,50,39629,18172,12.73,672,21.1,61.0,11,E,credit_card,MORTGAGE,Ontario,Charged Off,1
+C100390,67,61650,15751,12.06,623,22.2,65.7,6,D,medical,MORTGAGE,West,Current,0
+C100391,67,72341,16592,5.59,737,9.3,67.3,13,A,vacation,OTHER,Ontario,Current,0
+C100392,66,86816,32260,12.06,664,32.5,89.1,14,C,credit_card,MORTGAGE,West,Current,0
+C100393,63,41665,5666,12.21,695,15.4,18.0,12,D,small_business,OWN,Prairies,Current,0
+C100394,58,51261,16357,8.33,750,25.9,36.8,0,A,home_improvement,RENT,Prairies,Current,0
+C100395,52,25000,26482,10.67,642,16.7,39.5,12,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100396,46,45267,7739,15.71,627,26.6,57.2,3,E,debt_consolidation,OWN,Ontario,Current,0
+C100397,58,47288,13494,7.75,759,21.6,43.3,14,B,credit_card,RENT,West,Current,0
+C100398,66,37842,14297,10.41,702,26.0,43.6,15,C,small_business,MORTGAGE,West,Current,0
+C100399,26,64507,16437,11.46,603,12.1,74.6,1,C,debt_consolidation,MORTGAGE,West,Current,0
+C100400,27,58386,6828,9.09,738,24.0,25.0,1,B,small_business,RENT,Ontario,Current,0
+C100401,44,25000,22167,16.64,554,35.4,41.4,11,F,home_improvement,MORTGAGE,Atlantic,Late (31-120 days),1
+C100402,34,65972,22664,13.61,714,19.2,28.4,2,E,home_improvement,RENT,Ontario,Current,0
+C100403,45,39429,21559,5.81,780,15.2,34.8,15,A,debt_consolidation,RENT,Ontario,Current,0
+C100404,35,74500,11907,19.37,608,20.3,33.6,8,G,credit_card,RENT,Atlantic,Current,0
+C100405,57,33630,18606,17.62,623,20.1,53.5,9,F,debt_consolidation,RENT,Prairies,Current,0
+C100406,63,60688,11704,7.29,691,28.5,45.8,13,B,debt_consolidation,RENT,West,Current,0
+C100407,34,52711,15672,13.11,673,14.0,36.1,3,E,debt_consolidation,OWN,Ontario,Current,0
+C100408,57,68624,33074,5.0,704,8.4,63.4,8,A,debt_consolidation,RENT,Prairies,Current,0
+C100409,26,63330,18670,19.0,605,35.3,54.8,15,G,debt_consolidation,OWN,Ontario,Charged Off,1
+C100410,58,53379,9687,10.88,706,23.9,66.6,0,D,credit_card,MORTGAGE,Ontario,Current,0
+C100411,53,29992,19262,12.98,627,34.3,50.6,2,D,credit_card,RENT,Prairies,Current,0
+C100412,54,30800,8537,6.65,690,11.8,48.4,2,A,debt_consolidation,RENT,Ontario,Current,0
+C100413,44,46039,9607,15.35,548,23.4,50.5,5,F,major_purchase,OWN,Prairies,Charged Off,1
+C100414,26,59651,10712,7.88,665,10.4,50.8,2,A,credit_card,MORTGAGE,West,Current,0
+C100415,60,45537,14890,6.25,601,17.5,69.1,2,B,medical,OWN,Atlantic,Current,0
+C100416,26,79328,24559,7.99,764,2.6,35.3,13,A,home_improvement,RENT,Ontario,Current,0
+C100417,43,52804,22049,14.38,735,25.8,54.4,7,E,debt_consolidation,MORTGAGE,West,Current,0
+C100418,29,38783,21661,5.51,780,18.8,26.7,5,B,medical,MORTGAGE,West,Current,0
+C100419,60,52831,10308,17.91,525,22.1,76.2,6,F,major_purchase,OWN,West,Charged Off,1
+C100420,47,66280,14211,13.17,698,16.8,37.7,15,D,home_improvement,RENT,West,Current,0
+C100421,44,69300,19904,5.49,802,8.7,54.8,7,A,credit_card,OWN,West,Charged Off,1
+C100422,35,139423,13602,5.0,699,20.1,49.2,7,A,credit_card,RENT,West,Current,0
+C100423,57,44311,16051,5.0,730,6.8,72.9,14,A,credit_card,OWN,Ontario,Current,0
+C100424,30,57927,21090,14.9,548,23.1,39.9,0,D,small_business,MORTGAGE,Ontario,Current,0
+C100425,54,72530,15559,12.89,651,35.5,25.5,7,E,credit_card,MORTGAGE,Ontario,Current,0
+C100426,66,59246,19582,6.48,644,26.9,41.6,11,B,debt_consolidation,RENT,Ontario,Current,0
+C100427,33,47797,29149,14.32,647,10.5,27.5,8,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100428,53,29817,16797,5.0,638,11.2,28.3,13,A,debt_consolidation,RENT,Ontario,Current,0
+C100429,35,47578,26255,12.82,666,24.0,62.0,14,E,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100430,64,36932,21916,17.19,670,22.0,50.4,5,F,credit_card,MORTGAGE,Ontario,Current,0
+C100431,63,27530,7729,14.56,593,11.2,48.3,13,E,major_purchase,MORTGAGE,Ontario,Current,0
+C100432,35,41854,10285,11.54,595,22.2,49.8,3,D,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C100433,31,37377,12165,14.02,517,20.9,52.5,3,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100434,24,77863,12016,5.47,709,28.4,77.0,15,A,debt_consolidation,MORTGAGE,West,Charged Off,1
+C100435,53,78472,17368,7.93,670,14.7,37.3,0,B,credit_card,MORTGAGE,West,Current,0
+C100436,64,39865,22303,5.09,639,23.2,29.3,5,A,home_improvement,MORTGAGE,Prairies,Current,0
+C100437,27,53258,26786,9.3,705,9.1,61.9,10,C,credit_card,MORTGAGE,West,Current,0
+C100438,59,25946,20157,11.27,633,12.3,49.7,6,D,medical,MORTGAGE,West,Current,0
+C100439,56,47932,14880,11.13,599,24.6,93.1,13,D,vacation,MORTGAGE,West,Current,0
+C100440,43,71650,3424,15.25,605,28.6,46.4,4,E,major_purchase,RENT,Prairies,Current,0
+C100441,31,86788,18494,6.92,783,8.3,56.3,8,A,major_purchase,MORTGAGE,Atlantic,Current,0
+C100442,51,43440,18180,10.88,691,19.7,68.2,2,D,credit_card,RENT,Prairies,Current,0
+C100443,48,96118,19281,6.57,695,6.8,39.0,3,B,credit_card,RENT,West,Current,0
+C100444,59,30271,32744,7.81,736,15.2,31.6,2,B,credit_card,MORTGAGE,Prairies,Current,0
+C100445,47,34152,26684,14.59,594,25.4,70.2,11,D,small_business,RENT,Prairies,Current,0
+C100446,23,82401,23495,16.77,594,21.0,67.2,3,G,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100447,30,127008,11265,11.81,666,17.8,25.4,10,D,debt_consolidation,OTHER,Ontario,Current,0
+C100448,38,74760,14409,6.11,698,7.1,27.9,5,A,debt_consolidation,RENT,West,Current,0
+C100449,44,58797,17336,11.87,682,15.0,3.8,9,D,home_improvement,RENT,Ontario,Current,0
+C100450,37,25000,12572,5.45,681,27.3,60.3,13,A,home_improvement,RENT,West,Current,0
+C100451,62,25000,21503,17.39,642,23.0,48.1,13,F,debt_consolidation,RENT,Ontario,Current,0
+C100452,34,63464,20498,12.55,688,12.5,46.1,0,D,credit_card,MORTGAGE,Atlantic,Current,0
+C100453,52,50964,10382,7.01,564,12.8,28.9,12,A,credit_card,MORTGAGE,Atlantic,Current,0
+C100454,37,36402,26378,6.71,789,3.8,20.8,15,A,small_business,MORTGAGE,West,Current,0
+C100455,67,61666,18716,9.07,534,9.4,53.2,10,B,debt_consolidation,RENT,Ontario,Current,0
+C100456,64,63058,5897,19.9,558,33.5,47.7,2,G,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100457,57,91582,17641,11.6,736,17.0,47.1,10,C,home_improvement,RENT,Atlantic,Current,0
+C100458,56,63670,19968,16.79,619,34.2,65.3,10,E,credit_card,MORTGAGE,Prairies,Charged Off,1
+C100459,51,104066,24810,13.46,577,18.8,99.1,10,D,major_purchase,MORTGAGE,Ontario,Current,0
+C100460,48,60090,15638,9.2,620,17.7,54.3,6,C,credit_card,RENT,West,Current,0
+C100461,47,56846,23796,7.02,780,19.5,61.4,8,A,medical,MORTGAGE,West,Current,0
+C100462,22,96659,19310,16.85,508,3.8,49.1,10,F,debt_consolidation,MORTGAGE,Ontario,Late (31-120 days),1
+C100463,65,38550,8795,10.3,764,17.9,12.5,7,B,credit_card,RENT,Prairies,Current,0
+C100464,67,212458,8094,8.84,677,17.7,43.6,12,C,vacation,MORTGAGE,West,Current,0
+C100465,45,70889,25858,12.67,592,29.9,28.2,11,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100466,61,71067,26372,11.18,626,26.3,54.4,4,D,small_business,RENT,Ontario,Current,0
+C100467,39,75833,20260,16.62,558,14.6,45.8,9,F,debt_consolidation,RENT,Atlantic,Current,0
+C100468,26,139345,28470,5.74,772,23.7,6.8,12,A,credit_card,MORTGAGE,Ontario,Current,0
+C100469,60,85531,25396,10.58,720,16.2,77.6,7,C,debt_consolidation,OWN,Atlantic,Current,0
+C100470,44,29078,22785,8.31,585,11.7,47.9,11,C,credit_card,MORTGAGE,Ontario,Current,0
+C100471,65,112596,11621,10.95,658,19.4,22.0,2,C,small_business,MORTGAGE,West,Current,0
+C100472,31,51359,30120,6.25,677,13.6,66.1,6,A,debt_consolidation,MORTGAGE,West,Current,0
+C100473,43,62832,21754,6.18,795,25.8,27.0,11,A,debt_consolidation,RENT,Atlantic,Current,0
+C100474,52,33669,15299,10.34,628,18.9,73.6,14,B,debt_consolidation,RENT,West,Current,0
+C100475,27,75871,13322,7.54,790,17.9,27.3,10,B,debt_consolidation,RENT,Prairies,Current,0
+C100476,67,44662,19797,10.41,678,24.3,40.1,10,C,credit_card,OWN,Ontario,Current,0
+C100477,49,62635,6303,12.12,594,27.2,63.0,5,D,medical,MORTGAGE,West,Current,0
+C100478,29,52689,22898,12.24,621,25.0,65.3,11,D,debt_consolidation,OWN,West,Charged Off,1
+C100479,55,142380,11325,12.67,636,27.9,67.2,5,C,credit_card,RENT,Ontario,Current,0
+C100480,62,146096,20594,10.08,610,22.3,53.9,0,C,credit_card,MORTGAGE,Prairies,Current,0
+C100481,38,61141,14349,7.32,707,17.7,56.9,3,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100482,49,61623,16149,12.25,612,26.7,68.8,9,C,debt_consolidation,RENT,West,Charged Off,1
+C100483,56,50612,12702,7.63,582,15.9,61.4,15,B,home_improvement,RENT,Ontario,Current,0
+C100484,27,98489,16871,5.0,703,15.2,45.2,7,A,home_improvement,MORTGAGE,West,Current,0
+C100485,45,51637,31226,9.11,581,30.1,31.9,13,C,major_purchase,MORTGAGE,Ontario,Current,0
+C100486,47,49533,27695,8.5,639,29.4,63.9,12,C,credit_card,MORTGAGE,West,Current,0
+C100487,35,93001,20481,5.84,652,16.4,52.8,8,B,home_improvement,RENT,West,Current,0
+C100488,35,46994,17823,9.56,632,14.8,46.2,12,C,major_purchase,MORTGAGE,Ontario,Current,0
+C100489,50,58865,23909,9.92,790,28.2,63.5,6,C,major_purchase,RENT,West,Current,0
+C100490,56,29390,25910,13.42,661,25.1,25.5,7,D,medical,RENT,Ontario,Current,0
+C100491,39,82198,12191,12.76,671,21.7,80.0,11,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100492,27,143400,17458,12.7,560,17.2,59.3,10,D,vacation,RENT,West,Current,0
+C100493,57,82830,5246,6.93,666,18.8,56.5,8,B,major_purchase,OWN,Prairies,Current,0
+C100494,29,115591,25862,15.06,648,20.8,45.2,6,E,small_business,MORTGAGE,Atlantic,Current,0
+C100495,21,40915,32455,11.67,624,13.3,24.3,15,C,home_improvement,RENT,Prairies,Current,0
+C100496,36,66592,18561,10.47,730,18.9,43.0,1,C,vacation,RENT,West,Current,0
+C100497,59,39167,3125,12.51,592,21.4,63.0,0,D,credit_card,MORTGAGE,Ontario,Current,0
+C100498,56,54041,22262,6.48,686,13.9,61.3,7,B,small_business,RENT,Prairies,Current,0
+C100499,35,84753,11671,11.27,648,24.3,48.8,0,C,home_improvement,RENT,Ontario,Current,0
+C100500,45,62681,13357,14.14,667,28.5,11.3,5,D,small_business,RENT,Atlantic,Current,0
+C100501,66,31708,22386,16.39,579,29.3,30.3,9,F,small_business,RENT,Ontario,Current,0
+C100502,54,33131,19782,15.29,599,20.6,93.4,6,F,debt_consolidation,MORTGAGE,Ontario,Late (31-120 days),1
+C100503,56,32160,14583,9.81,667,23.3,31.1,3,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100504,25,74694,13453,9.5,640,18.5,78.7,4,C,credit_card,RENT,Atlantic,Current,0
+C100505,32,151562,18881,13.57,663,12.3,34.3,9,E,small_business,MORTGAGE,Ontario,Current,0
+C100506,25,110537,15134,8.78,715,21.2,43.5,15,B,home_improvement,RENT,West,Current,0
+C100507,67,25510,10235,14.34,631,22.0,65.0,12,E,major_purchase,MORTGAGE,Atlantic,Current,0
+C100508,37,113492,15672,11.2,656,36.2,36.9,8,C,small_business,RENT,Atlantic,Charged Off,1
+C100509,44,91252,20377,6.45,768,25.2,71.0,2,A,credit_card,MORTGAGE,Prairies,Current,0
+C100510,46,29870,16753,5.0,711,20.0,48.4,3,A,debt_consolidation,RENT,Prairies,Current,0
+C100511,45,52238,8105,13.4,619,22.7,63.0,7,E,home_improvement,MORTGAGE,Ontario,Current,0
+C100512,23,98026,24923,5.32,730,16.1,40.7,3,A,major_purchase,RENT,Ontario,Current,0
+C100513,63,76703,2000,7.78,795,9.5,51.9,11,B,home_improvement,OTHER,Ontario,Current,0
+C100514,38,33220,14875,10.15,628,4.3,82.4,5,B,major_purchase,RENT,Prairies,Current,0
+C100515,64,78813,13659,8.35,766,8.9,40.1,13,A,vacation,OWN,Prairies,Current,0
+C100516,56,25000,19037,9.0,598,16.2,87.6,4,B,credit_card,OWN,Prairies,Current,0
+C100517,53,54162,21932,12.14,670,4.8,39.5,7,D,small_business,RENT,West,Current,0
+C100518,54,99916,25887,5.0,811,11.2,52.5,11,A,credit_card,RENT,Ontario,Current,0
+C100519,66,60372,13013,14.26,663,19.3,59.9,3,E,credit_card,RENT,West,Current,0
+C100520,35,47833,22106,13.05,645,19.5,33.3,12,E,debt_consolidation,OTHER,Prairies,Current,0
+C100521,36,89340,19371,9.96,671,11.9,54.3,9,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100522,52,92841,6019,5.0,726,12.6,46.0,10,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100523,31,107960,31304,12.46,644,31.6,37.3,7,D,home_improvement,RENT,Prairies,Current,0
+C100524,58,88739,7929,5.0,681,19.6,56.0,14,A,debt_consolidation,OWN,Atlantic,Current,0
+C100525,22,97404,20936,7.99,686,12.6,51.8,12,B,credit_card,RENT,West,Current,0
+C100526,63,83267,20730,18.8,603,23.5,54.8,3,G,credit_card,RENT,Atlantic,Charged Off,1
+C100527,37,67473,19929,19.23,550,23.8,59.3,8,G,credit_card,RENT,West,Charged Off,1
+C100528,21,62335,14538,13.93,592,15.6,55.4,14,E,major_purchase,MORTGAGE,Prairies,Charged Off,1
+C100529,49,53811,23791,8.91,627,11.1,47.5,4,B,credit_card,OWN,Ontario,Current,0
+C100530,33,34698,7077,11.21,679,26.6,52.3,8,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100531,35,38953,17539,12.29,688,16.6,37.4,12,D,vacation,RENT,Ontario,Current,0
+C100532,43,52738,14053,9.2,715,8.8,94.6,4,B,major_purchase,RENT,West,Current,0
+C100533,48,66746,13259,12.4,711,19.2,21.7,8,D,home_improvement,MORTGAGE,Ontario,Current,0
+C100534,27,114504,21001,5.36,729,15.8,35.1,8,A,small_business,MORTGAGE,West,Current,0
+C100535,23,58759,25542,7.67,724,2.7,36.9,2,B,debt_consolidation,RENT,Ontario,Current,0
+C100536,42,94048,15597,11.22,697,17.7,85.0,2,C,small_business,RENT,Ontario,Current,0
+C100537,37,97313,23465,5.0,719,21.1,22.7,9,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100538,48,53952,18348,5.0,695,18.2,56.1,2,A,credit_card,OWN,West,Current,0
+C100539,56,78246,11751,14.72,758,36.6,47.6,15,E,debt_consolidation,MORTGAGE,Ontario,Late (31-120 days),1
+C100540,49,53659,16194,17.47,567,32.8,65.1,8,G,small_business,RENT,Ontario,Charged Off,1
+C100541,25,108549,15904,8.26,643,28.1,75.0,11,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100542,67,79708,13123,15.62,660,40.6,73.2,6,E,debt_consolidation,RENT,Ontario,Current,0
+C100543,54,35041,20999,16.68,606,29.3,47.7,4,G,debt_consolidation,OWN,West,Current,0
+C100544,23,64388,19643,5.76,647,16.1,55.9,7,A,small_business,RENT,West,Current,0
+C100545,56,125700,6865,9.26,742,24.8,10.9,11,C,debt_consolidation,RENT,Ontario,Current,0
+C100546,62,55185,6439,7.64,697,12.6,50.0,6,B,credit_card,MORTGAGE,West,Current,0
+C100547,47,73238,20973,5.0,663,15.8,36.8,4,A,debt_consolidation,RENT,West,Current,0
+C100548,60,76546,12293,12.86,723,15.0,42.7,2,D,small_business,RENT,Ontario,Current,0
+C100549,62,37553,20114,10.13,714,20.8,16.5,8,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100550,66,75344,23467,11.18,610,13.4,62.8,10,C,medical,MORTGAGE,West,Current,0
+C100551,65,31977,9103,5.27,822,10.2,7.3,8,A,debt_consolidation,OWN,West,Current,0
+C100552,30,45183,8119,10.56,738,19.4,47.5,4,B,debt_consolidation,RENT,Prairies,Current,0
+C100553,22,97156,29721,13.71,613,21.5,33.2,3,F,debt_consolidation,RENT,Ontario,Current,0
+C100554,51,70301,20461,5.0,811,1.5,23.5,6,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100555,52,52208,15065,10.1,711,6.3,67.9,5,B,credit_card,RENT,Ontario,Current,0
+C100556,47,73197,11462,8.57,700,8.5,58.6,3,B,debt_consolidation,RENT,Ontario,Current,0
+C100557,32,58277,14427,10.41,644,11.8,73.4,15,C,major_purchase,OWN,Atlantic,Current,0
+C100558,65,60214,9666,10.52,712,20.9,75.1,5,C,credit_card,OWN,Prairies,Current,0
+C100559,40,80464,24184,10.69,706,19.5,33.6,4,C,debt_consolidation,RENT,West,Current,0
+C100560,55,43161,12563,6.36,725,22.5,72.9,9,A,credit_card,MORTGAGE,Prairies,Current,0
+C100561,50,60971,25655,6.84,659,21.8,25.0,12,B,debt_consolidation,MORTGAGE,West,Current,0
+C100562,63,52025,15196,14.98,643,28.5,66.2,7,E,debt_consolidation,RENT,Prairies,Current,0
+C100563,54,29333,10697,12.79,654,23.8,43.0,10,D,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100564,50,39569,15016,13.71,585,21.0,40.8,1,D,debt_consolidation,RENT,Prairies,Current,0
+C100565,60,121260,2000,14.12,577,27.2,69.3,8,D,debt_consolidation,RENT,West,Current,0
+C100566,23,71191,17155,14.4,667,27.4,67.8,1,E,medical,OTHER,Ontario,Current,0
+C100567,54,33004,16809,5.0,581,17.6,74.4,2,A,home_improvement,MORTGAGE,Atlantic,Current,0
+C100568,48,29937,23773,10.13,713,25.4,50.8,9,B,medical,RENT,West,Current,0
+C100569,57,56927,4796,8.78,654,1.6,54.2,3,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100570,31,120878,26133,8.41,774,14.5,51.3,0,B,major_purchase,OWN,Ontario,Current,0
+C100571,49,55048,23744,13.69,609,18.9,61.1,2,E,credit_card,RENT,Prairies,Current,0
+C100572,34,107813,26764,9.48,716,26.1,56.4,12,C,debt_consolidation,OWN,Ontario,Current,0
+C100573,26,70148,17631,14.92,614,32.0,58.8,9,E,major_purchase,OWN,Prairies,Charged Off,1
+C100574,48,74018,25097,14.29,642,10.8,68.0,6,E,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C100575,22,32824,7701,10.62,721,27.9,17.0,15,C,credit_card,MORTGAGE,Prairies,Current,0
+C100576,25,91298,22991,15.02,589,14.3,54.9,6,F,major_purchase,MORTGAGE,West,Current,0
+C100577,45,51497,12602,9.79,735,10.0,20.2,14,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100578,63,88291,6440,13.08,581,19.4,62.9,5,E,credit_card,RENT,Ontario,Charged Off,1
+C100579,54,41507,10131,7.76,718,14.3,76.1,0,B,credit_card,RENT,Prairies,Current,0
+C100580,21,64840,18039,9.86,731,7.1,36.9,1,C,debt_consolidation,RENT,Ontario,Current,0
+C100581,26,70151,12230,12.21,716,22.5,49.0,4,C,vacation,MORTGAGE,West,Charged Off,1
+C100582,41,55865,20633,5.69,829,19.8,50.9,2,A,debt_consolidation,MORTGAGE,West,Current,0
+C100583,41,71829,5342,5.45,660,23.9,14.1,2,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100584,22,53110,3110,17.67,538,19.5,52.1,6,F,debt_consolidation,MORTGAGE,West,Charged Off,1
+C100585,33,44709,27607,12.54,603,19.2,62.6,15,D,medical,RENT,Ontario,Late (31-120 days),1
+C100586,26,123311,24327,5.84,760,14.8,1.0,3,A,small_business,RENT,Prairies,Current,0
+C100587,47,95993,10655,7.48,729,28.3,28.0,3,B,credit_card,MORTGAGE,Ontario,Current,0
+C100588,51,42515,17979,6.86,708,1.0,67.1,15,B,medical,MORTGAGE,Prairies,Current,0
+C100589,39,77327,25137,8.33,662,8.3,69.2,3,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100590,47,42864,20934,16.06,656,22.5,58.4,13,F,major_purchase,RENT,Ontario,Current,0
+C100591,30,35133,19038,7.91,613,10.4,71.1,9,C,debt_consolidation,RENT,Ontario,Current,0
+C100592,61,95341,25666,8.39,766,14.7,46.4,14,B,credit_card,OWN,West,Current,0
+C100593,21,27810,12885,11.45,837,17.1,46.6,8,C,debt_consolidation,RENT,Atlantic,Current,0
+C100594,44,90861,18218,6.19,744,10.4,38.7,9,A,vacation,RENT,Prairies,Current,0
+C100595,36,53438,17875,6.92,734,17.0,47.3,3,B,medical,MORTGAGE,West,Current,0
+C100596,42,54437,16091,10.81,631,23.9,42.4,9,D,credit_card,MORTGAGE,Prairies,Current,0
+C100597,45,71998,15271,10.9,558,17.8,82.6,10,D,debt_consolidation,OWN,Ontario,Current,0
+C100598,51,77772,18510,19.83,559,20.8,87.1,15,G,debt_consolidation,OWN,Ontario,Charged Off,1
+C100599,64,41281,18241,11.91,598,18.3,81.3,1,D,credit_card,MORTGAGE,Ontario,Current,0
+C100600,47,82700,10661,7.99,600,17.9,49.0,2,C,debt_consolidation,RENT,Ontario,Current,0
+C100601,31,63008,23613,14.46,731,8.8,28.2,0,E,debt_consolidation,MORTGAGE,West,Current,0
+C100602,45,34022,11165,16.17,629,25.7,76.9,12,F,home_improvement,OWN,Prairies,Current,0
+C100603,45,55468,16472,11.46,679,16.3,59.5,1,D,home_improvement,RENT,West,Current,0
+C100604,61,111477,15933,16.78,575,32.8,64.3,14,G,medical,OWN,Ontario,Charged Off,1
+C100605,47,127321,20507,12.72,626,25.1,42.8,5,E,credit_card,MORTGAGE,West,Late (31-120 days),1
+C100606,61,82686,3166,15.3,689,29.2,56.6,4,E,debt_consolidation,RENT,Ontario,Current,0
+C100607,51,35044,24236,6.3,722,7.9,26.6,15,A,credit_card,MORTGAGE,Ontario,Current,0
+C100608,47,74665,13261,12.57,687,16.9,60.5,11,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100609,36,87806,26540,10.29,669,9.3,75.4,8,C,home_improvement,RENT,West,Current,0
+C100610,33,82998,14653,10.39,661,13.1,80.6,14,C,small_business,RENT,West,Current,0
+C100611,25,85240,17658,11.44,581,28.3,70.7,12,D,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100612,46,70507,31397,17.75,483,34.4,41.2,10,G,debt_consolidation,RENT,Ontario,Late (31-120 days),1
+C100613,64,57955,16059,19.4,578,16.0,61.7,5,G,major_purchase,RENT,Ontario,Charged Off,1
+C100614,21,45535,26672,9.7,705,13.3,86.1,15,B,credit_card,MORTGAGE,Ontario,Current,0
+C100615,65,25487,18273,10.53,587,19.0,41.8,11,D,credit_card,MORTGAGE,Atlantic,Charged Off,1
+C100616,61,69762,20908,11.75,656,23.6,50.6,15,D,small_business,MORTGAGE,Prairies,Current,0
+C100617,41,65103,18490,9.01,705,4.2,73.0,15,B,credit_card,OWN,Atlantic,Current,0
+C100618,35,76950,23935,8.26,605,3.8,67.0,8,A,debt_consolidation,OWN,West,Current,0
+C100619,48,32797,13201,8.14,674,18.4,94.8,5,A,major_purchase,MORTGAGE,Atlantic,Current,0
+C100620,61,80038,11112,13.05,658,7.4,38.3,15,E,medical,RENT,West,Current,0
+C100621,22,150926,13530,11.53,701,14.9,30.1,15,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100622,42,62026,18698,18.07,529,25.1,84.3,1,G,debt_consolidation,RENT,West,Current,0
+C100623,23,58236,16454,11.25,689,20.9,27.4,10,C,home_improvement,OWN,Ontario,Current,0
+C100624,51,68806,22972,18.95,648,23.0,48.8,9,G,home_improvement,MORTGAGE,Atlantic,Charged Off,1
+C100625,24,149425,27133,8.48,723,15.4,44.9,11,C,credit_card,RENT,Prairies,Current,0
+C100626,35,37773,11169,14.66,631,26.9,72.4,15,E,credit_card,MORTGAGE,Prairies,Current,0
+C100627,55,65607,12862,7.21,698,17.0,59.2,4,A,home_improvement,MORTGAGE,Prairies,Current,0
+C100628,56,41779,7946,9.98,645,13.5,60.8,15,C,credit_card,OWN,West,Late (31-120 days),1
+C100629,31,46810,32213,13.7,662,21.3,43.9,10,E,debt_consolidation,RENT,Ontario,Current,0
+C100630,45,58553,20133,14.11,625,25.2,76.1,1,F,debt_consolidation,OWN,West,Current,0
+C100631,29,109787,21359,14.82,671,33.0,100.0,8,E,credit_card,RENT,Atlantic,Late (31-120 days),1
+C100632,48,134652,8619,6.25,731,20.5,57.9,2,A,medical,MORTGAGE,Atlantic,Current,0
+C100633,21,73252,17992,6.89,747,25.0,45.9,15,B,credit_card,OWN,West,Current,0
+C100634,59,50541,21565,5.61,729,10.7,22.2,12,A,credit_card,RENT,Ontario,Current,0
+C100635,22,183824,16231,6.19,767,11.3,30.9,14,A,medical,RENT,Atlantic,Current,0
+C100636,49,49395,25530,11.33,706,17.9,43.7,9,D,credit_card,MORTGAGE,Atlantic,Current,0
+C100637,40,46304,34183,12.0,614,18.5,45.5,6,D,credit_card,OWN,Ontario,Current,0
+C100638,31,26938,11371,11.9,537,13.9,61.3,6,E,debt_consolidation,RENT,West,Current,0
+C100639,46,112223,10845,15.62,721,29.9,78.3,15,E,small_business,MORTGAGE,West,Late (31-120 days),1
+C100640,27,92569,11856,12.02,672,25.7,72.8,2,D,home_improvement,MORTGAGE,Ontario,Current,0
+C100641,48,177729,29243,12.68,542,18.9,58.3,14,E,small_business,RENT,Prairies,Current,0
+C100642,51,32039,25296,5.0,685,19.5,27.5,6,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100643,42,115402,17051,9.23,744,18.1,68.4,9,B,credit_card,RENT,Ontario,Current,0
+C100644,37,61794,18256,12.67,643,24.5,51.9,10,D,debt_consolidation,RENT,Prairies,Current,0
+C100645,42,86055,12284,14.25,608,11.6,24.6,1,E,vacation,OWN,West,Current,0
+C100646,65,28524,24230,7.04,801,14.0,52.4,2,A,debt_consolidation,RENT,Prairies,Current,0
+C100647,56,115918,15341,11.03,622,17.6,73.0,2,C,home_improvement,OWN,Atlantic,Charged Off,1
+C100648,21,85300,16179,12.23,614,23.9,11.5,12,D,home_improvement,MORTGAGE,Prairies,Current,0
+C100649,34,58835,22262,5.69,736,10.6,30.2,1,A,debt_consolidation,MORTGAGE,West,Current,0
+C100650,22,80042,16684,9.5,701,1.0,45.9,9,C,credit_card,RENT,Atlantic,Current,0
+C100651,32,42426,16355,16.51,641,14.9,66.1,1,F,debt_consolidation,RENT,Ontario,Current,0
+C100652,57,46132,18074,13.68,708,19.1,38.0,12,D,credit_card,MORTGAGE,Ontario,Current,0
+C100653,61,48603,23567,7.88,713,16.9,31.9,15,B,vacation,MORTGAGE,Ontario,Current,0
+C100654,42,26011,29525,15.77,663,32.8,64.2,6,E,credit_card,MORTGAGE,Prairies,Current,0
+C100655,53,88238,22098,8.45,688,20.6,40.6,3,B,vacation,RENT,Atlantic,Current,0
+C100656,38,102357,23623,14.46,639,21.6,62.8,7,E,debt_consolidation,RENT,Atlantic,Charged Off,1
+C100657,43,43669,16601,10.89,708,16.3,27.3,11,B,credit_card,RENT,Prairies,Current,0
+C100658,59,70031,13045,11.98,692,25.7,24.3,11,C,medical,MORTGAGE,Prairies,Current,0
+C100659,33,53131,22578,10.01,744,12.4,57.9,10,B,major_purchase,RENT,Prairies,Current,0
+C100660,35,69406,19199,7.04,733,15.5,49.8,9,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100661,27,45143,8042,18.63,616,14.9,71.6,10,F,home_improvement,MORTGAGE,Ontario,Current,0
+C100662,31,40234,15704,7.9,657,26.4,42.0,3,B,major_purchase,RENT,Ontario,Current,0
+C100663,22,96128,17420,5.73,728,17.7,31.4,3,A,small_business,MORTGAGE,Atlantic,Current,0
+C100664,59,58178,14427,5.41,700,11.5,72.5,14,B,home_improvement,MORTGAGE,Ontario,Current,0
+C100665,61,148739,28372,12.39,669,18.7,23.2,9,D,debt_consolidation,OWN,Ontario,Current,0
+C100666,40,61135,21359,12.7,757,24.6,65.8,13,E,debt_consolidation,RENT,Ontario,Current,0
+C100667,48,39469,27612,18.49,563,22.2,83.2,10,G,home_improvement,MORTGAGE,Ontario,Charged Off,1
+C100668,32,103998,19844,6.61,725,12.8,61.4,7,B,credit_card,RENT,West,Current,0
+C100669,23,79528,18570,12.16,739,13.4,32.4,9,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100670,45,83041,11444,6.66,729,17.4,30.9,11,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100671,28,102311,18084,12.74,809,15.5,35.1,2,C,credit_card,RENT,West,Current,0
+C100672,60,44634,18091,16.77,571,20.8,35.4,7,G,credit_card,MORTGAGE,Ontario,Current,0
+C100673,34,56542,8430,13.86,676,10.1,32.7,11,D,credit_card,MORTGAGE,Ontario,Current,0
+C100674,55,55428,14223,7.84,636,18.5,64.9,1,C,credit_card,RENT,Prairies,Current,0
+C100675,33,33495,15737,8.25,683,15.2,61.1,1,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100676,26,53177,20894,15.24,628,20.2,35.1,2,F,major_purchase,RENT,Prairies,Current,0
+C100677,46,109247,21229,9.46,727,19.4,57.9,9,C,home_improvement,OWN,Ontario,Charged Off,1
+C100678,29,66623,13931,5.38,742,20.2,52.7,3,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100679,39,32672,21282,6.9,771,21.4,69.3,6,B,credit_card,MORTGAGE,West,Current,0
+C100680,34,29729,16725,5.0,719,18.9,56.7,2,A,credit_card,OWN,Prairies,Current,0
+C100681,62,126646,2000,7.47,684,14.8,68.4,4,B,home_improvement,MORTGAGE,West,Current,0
+C100682,44,57489,14607,6.14,850,11.0,44.1,0,A,home_improvement,RENT,West,Current,0
+C100683,54,44742,25553,11.4,702,10.7,65.5,12,C,home_improvement,RENT,Ontario,Current,0
+C100684,48,52929,6227,12.35,618,15.3,31.7,7,D,home_improvement,RENT,West,Current,0
+C100685,63,30798,18789,9.4,664,16.6,48.8,2,B,debt_consolidation,OWN,Atlantic,Current,0
+C100686,41,113595,29097,8.23,628,12.5,53.3,8,C,debt_consolidation,OWN,Prairies,Current,0
+C100687,61,50168,12676,17.48,644,24.7,48.3,14,G,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100688,63,110783,18015,12.85,638,12.7,61.2,13,D,credit_card,RENT,Atlantic,Current,0
+C100689,64,61282,8872,10.41,687,6.4,60.5,14,C,credit_card,RENT,Ontario,Current,0
+C100690,53,113924,29391,6.97,699,22.2,55.1,6,B,small_business,OWN,Ontario,Current,0
+C100691,67,67206,17417,17.12,654,19.2,48.6,5,F,debt_consolidation,RENT,Ontario,Current,0
+C100692,56,87900,18326,7.36,655,10.6,38.5,5,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C100693,35,82751,27480,7.07,643,8.8,72.5,4,B,debt_consolidation,RENT,West,Current,0
+C100694,28,79259,22630,16.58,626,25.5,60.5,14,F,credit_card,RENT,West,Current,0
+C100695,30,70022,11871,10.01,713,27.6,28.6,2,C,home_improvement,MORTGAGE,Atlantic,Current,0
+C100696,47,53918,13469,11.37,676,16.7,46.5,13,D,debt_consolidation,OWN,West,Current,0
+C100697,28,141768,21465,9.33,635,16.5,22.0,14,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100698,32,39810,13631,10.72,695,27.0,49.1,13,D,credit_card,MORTGAGE,Ontario,Current,0
+C100699,50,59990,3179,7.53,661,3.8,47.7,10,B,home_improvement,RENT,Ontario,Current,0
+C100700,36,60277,17627,9.32,673,30.3,39.9,13,B,debt_consolidation,OWN,Ontario,Current,0
+C100701,53,71761,7639,8.29,650,33.6,80.7,0,B,medical,MORTGAGE,Atlantic,Current,0
+C100702,67,49352,29314,7.15,796,1.0,19.2,13,A,vacation,MORTGAGE,West,Current,0
+C100703,25,68984,19238,16.62,649,21.8,65.0,8,F,major_purchase,MORTGAGE,Ontario,Current,0
+C100704,51,55493,11664,7.27,735,11.5,84.4,15,B,debt_consolidation,RENT,Ontario,Current,0
+C100705,59,29382,13110,8.02,749,16.1,63.3,1,C,home_improvement,RENT,Prairies,Current,0
+C100706,27,60132,4774,12.89,791,18.1,39.8,14,E,debt_consolidation,OWN,Atlantic,Current,0
+C100707,57,36488,10304,13.19,542,26.7,40.8,9,E,major_purchase,MORTGAGE,Ontario,Late (31-120 days),1
+C100708,44,27434,25114,9.1,639,17.2,28.6,1,C,credit_card,RENT,West,Current,0
+C100709,50,63678,33623,11.18,646,11.6,45.1,8,C,debt_consolidation,RENT,Atlantic,Current,0
+C100710,23,74574,23085,19.16,545,22.8,48.6,0,G,debt_consolidation,OTHER,Atlantic,Late (31-120 days),1
+C100711,41,75888,17356,14.65,599,23.1,43.5,1,D,major_purchase,MORTGAGE,West,Late (31-120 days),1
+C100712,38,77283,14976,13.08,620,12.7,48.8,8,E,major_purchase,MORTGAGE,Ontario,Late (31-120 days),1
+C100713,28,25093,11305,17.92,547,11.0,58.9,13,F,credit_card,RENT,West,Current,0
+C100714,56,32453,32418,15.91,654,34.9,60.6,1,E,credit_card,OWN,West,Current,0
+C100715,44,145522,16679,7.72,705,12.0,25.3,4,B,small_business,OWN,Prairies,Current,0
+C100716,62,37375,32809,10.57,706,17.0,35.2,6,C,major_purchase,MORTGAGE,Atlantic,Current,0
+C100717,28,78817,27755,7.49,752,12.2,40.8,8,A,small_business,RENT,West,Current,0
+C100718,55,43953,5814,11.93,691,23.3,45.2,0,D,credit_card,MORTGAGE,West,Current,0
+C100719,49,62060,13338,17.84,571,36.4,91.8,10,G,home_improvement,OWN,Ontario,Current,0
+C100720,51,45028,13317,9.25,797,22.1,44.1,7,C,major_purchase,MORTGAGE,Prairies,Current,0
+C100721,35,77087,17441,7.17,693,7.4,19.5,15,C,debt_consolidation,OWN,West,Current,0
+C100722,53,63675,17578,6.08,622,5.3,62.0,4,A,credit_card,MORTGAGE,West,Current,0
+C100723,32,48936,38974,17.15,537,21.2,71.4,7,G,debt_consolidation,RENT,Ontario,Charged Off,1
+C100724,56,37325,10459,5.0,628,13.1,51.7,1,A,credit_card,MORTGAGE,Ontario,Current,0
+C100725,41,67542,19603,6.51,725,2.9,24.1,14,A,small_business,MORTGAGE,Ontario,Current,0
+C100726,43,34692,22316,6.26,695,22.2,80.1,13,B,debt_consolidation,RENT,West,Current,0
+C100727,48,72574,17989,6.97,698,7.4,28.9,5,A,credit_card,RENT,Ontario,Current,0
+C100728,24,195227,18771,10.58,791,28.5,52.3,7,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100729,38,109928,10686,9.52,710,30.7,50.8,13,C,major_purchase,RENT,Prairies,Current,0
+C100730,30,82723,18745,7.92,742,14.8,55.3,4,B,major_purchase,MORTGAGE,West,Current,0
+C100731,66,57611,21580,5.0,673,18.1,81.0,3,A,credit_card,RENT,Prairies,Current,0
+C100732,40,25023,20293,6.9,669,6.4,60.7,3,A,home_improvement,RENT,Prairies,Current,0
+C100733,21,33023,21991,8.22,704,20.9,37.6,11,B,debt_consolidation,RENT,West,Current,0
+C100734,22,106645,27888,6.31,734,11.5,65.1,3,A,major_purchase,MORTGAGE,Atlantic,Current,0
+C100735,63,41966,24559,12.6,556,11.9,48.6,1,D,home_improvement,MORTGAGE,Ontario,Charged Off,1
+C100736,28,43710,18499,7.23,692,14.5,51.6,2,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100737,21,55573,9798,6.18,703,13.2,24.5,15,B,vacation,MORTGAGE,West,Current,0
+C100738,30,37126,13800,9.15,690,14.2,30.2,13,B,debt_consolidation,RENT,Ontario,Current,0
+C100739,31,34474,16463,10.83,635,24.6,54.3,15,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100740,24,58530,19766,5.36,694,9.5,55.1,4,A,debt_consolidation,OTHER,Atlantic,Current,0
+C100741,67,40087,14652,6.49,714,27.1,16.2,7,A,home_improvement,MORTGAGE,Prairies,Current,0
+C100742,23,42896,11450,15.51,641,11.7,61.9,7,E,debt_consolidation,RENT,Ontario,Current,0
+C100743,55,42128,9683,7.37,757,26.3,28.5,8,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100744,60,75740,6442,9.32,739,10.9,67.8,0,C,credit_card,RENT,Ontario,Current,0
+C100745,51,53935,16355,8.21,664,18.0,44.7,9,C,vacation,RENT,Atlantic,Current,0
+C100746,27,55251,7712,6.42,677,13.1,29.7,0,B,debt_consolidation,RENT,Ontario,Current,0
+C100747,55,78325,10996,9.63,704,15.6,49.0,4,C,home_improvement,RENT,Ontario,Current,0
+C100748,36,56167,15243,15.75,670,26.6,34.0,4,E,credit_card,RENT,Atlantic,Current,0
+C100749,40,52827,8649,13.13,612,31.5,78.2,10,E,major_purchase,MORTGAGE,Atlantic,Current,0
+C100750,32,73991,20658,7.28,745,24.8,44.3,14,B,debt_consolidation,RENT,West,Current,0
+C100751,57,80877,23182,7.26,756,13.7,40.6,11,B,credit_card,MORTGAGE,West,Current,0
+C100752,48,56040,14154,7.36,773,17.8,52.6,6,B,medical,OWN,Ontario,Current,0
+C100753,28,62086,14941,9.99,778,12.5,23.4,8,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100754,40,42116,21762,10.46,610,12.6,32.3,8,D,credit_card,MORTGAGE,Ontario,Current,0
+C100755,58,40648,13002,9.3,703,8.5,55.1,2,B,major_purchase,MORTGAGE,Prairies,Current,0
+C100756,65,84636,12521,7.83,703,13.4,28.0,15,B,debt_consolidation,RENT,Ontario,Current,0
+C100757,65,73147,26375,18.97,609,24.2,35.8,14,F,credit_card,RENT,West,Current,0
+C100758,27,73489,24189,5.0,688,1.6,64.1,3,A,debt_consolidation,MORTGAGE,West,Current,0
+C100759,61,67940,22211,11.91,598,17.7,66.0,1,C,major_purchase,OWN,West,Current,0
+C100760,47,61132,24480,13.67,663,30.1,28.5,2,D,medical,MORTGAGE,West,Current,0
+C100761,55,81911,4159,5.51,682,22.9,38.4,10,A,home_improvement,OWN,Ontario,Current,0
+C100762,39,91199,27477,5.53,729,10.9,29.3,0,A,home_improvement,MORTGAGE,Prairies,Current,0
+C100763,51,90224,20744,5.0,680,5.2,81.6,1,A,credit_card,MORTGAGE,West,Current,0
+C100764,33,57219,25075,14.91,554,25.7,76.5,10,F,debt_consolidation,MORTGAGE,Ontario,Late (31-120 days),1
+C100765,45,111764,20710,6.0,737,1.0,37.3,2,A,debt_consolidation,OWN,Prairies,Current,0
+C100766,31,66357,18342,8.02,710,24.3,57.5,1,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100767,39,79584,16073,5.0,756,13.5,18.9,0,A,debt_consolidation,OTHER,Prairies,Current,0
+C100768,40,67978,20570,8.75,844,27.8,23.9,11,A,home_improvement,OWN,West,Current,0
+C100769,61,66913,15818,11.69,673,7.4,52.1,5,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100770,50,42998,24075,8.08,729,22.9,53.7,4,B,debt_consolidation,RENT,West,Current,0
+C100771,51,82093,6895,9.25,621,17.3,52.8,10,C,credit_card,RENT,West,Current,0
+C100772,34,215428,14209,9.68,609,15.7,60.0,2,C,debt_consolidation,MORTGAGE,West,Current,0
+C100773,41,50582,32314,13.57,723,11.4,47.5,8,E,debt_consolidation,RENT,Prairies,Current,0
+C100774,43,61818,13617,6.0,673,19.2,47.3,7,A,debt_consolidation,MORTGAGE,West,Current,0
+C100775,57,48982,16329,13.98,579,25.7,52.8,10,E,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100776,29,48069,11822,12.97,656,32.0,44.0,9,D,credit_card,OWN,West,Charged Off,1
+C100777,23,119971,20351,6.27,719,22.1,50.6,10,A,small_business,OWN,West,Current,0
+C100778,44,44230,12846,14.85,586,16.8,64.9,3,E,major_purchase,MORTGAGE,Atlantic,Charged Off,1
+C100779,59,48371,16701,13.99,619,14.0,58.3,2,E,small_business,RENT,Prairies,Charged Off,1
+C100780,55,29308,23942,8.28,770,6.9,21.0,8,B,home_improvement,RENT,West,Current,0
+C100781,59,42577,13109,15.71,570,32.8,40.9,0,F,medical,MORTGAGE,Ontario,Charged Off,1
+C100782,39,27756,23520,11.2,603,12.6,63.3,7,C,credit_card,RENT,West,Current,0
+C100783,31,79564,23756,12.39,710,29.9,73.7,10,D,home_improvement,MORTGAGE,Ontario,Current,0
+C100784,52,211053,25385,17.81,619,27.7,57.5,13,G,credit_card,OTHER,West,Charged Off,1
+C100785,22,50767,18984,7.77,668,18.8,43.3,10,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100786,63,28281,40689,13.87,549,18.9,64.6,15,E,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100787,54,89769,25382,8.04,661,21.1,30.8,8,B,debt_consolidation,MORTGAGE,West,Current,0
+C100788,44,43169,20274,13.93,633,20.9,77.1,7,E,small_business,OWN,West,Charged Off,1
+C100789,30,107442,11869,11.33,722,16.9,49.5,3,D,debt_consolidation,RENT,Ontario,Current,0
+C100790,32,52738,17321,8.92,645,21.4,40.5,10,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C100791,67,45057,27984,10.99,675,17.0,47.1,12,C,major_purchase,RENT,Prairies,Current,0
+C100792,21,55266,29967,10.14,739,10.9,35.3,5,B,credit_card,MORTGAGE,Ontario,Current,0
+C100793,21,84204,28348,5.28,593,19.2,80.5,1,A,debt_consolidation,RENT,West,Current,0
+C100794,37,54050,23496,6.8,781,14.6,37.6,0,A,credit_card,MORTGAGE,Ontario,Current,0
+C100795,31,47881,9210,5.71,637,19.9,56.0,10,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100796,52,54750,21410,6.99,742,11.8,54.8,10,A,vacation,RENT,Ontario,Current,0
+C100797,22,33781,9310,5.0,738,6.5,31.5,1,A,home_improvement,MORTGAGE,West,Current,0
+C100798,57,71587,7588,10.82,718,31.6,50.0,0,D,small_business,RENT,Ontario,Current,0
+C100799,57,26795,19674,12.4,688,30.3,53.9,10,D,credit_card,RENT,West,Current,0
+C100800,31,49028,21662,11.25,527,25.7,34.4,6,D,home_improvement,RENT,Ontario,Late (31-120 days),1
+C100801,48,84265,24324,7.09,659,13.8,56.0,6,B,small_business,RENT,Ontario,Current,0
+C100802,52,68622,21480,15.42,622,20.4,53.7,4,F,debt_consolidation,OTHER,Ontario,Current,0
+C100803,60,78092,21721,10.88,669,27.7,52.9,11,C,debt_consolidation,OTHER,Atlantic,Current,0
+C100804,55,58147,11107,5.0,750,12.5,44.5,11,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100805,66,101355,17265,5.94,767,10.6,47.1,0,A,credit_card,MORTGAGE,Ontario,Current,0
+C100806,26,90773,7450,11.55,691,32.6,72.8,1,D,major_purchase,MORTGAGE,West,Late (31-120 days),1
+C100807,49,73186,3976,6.98,712,14.7,25.8,8,A,home_improvement,OWN,Atlantic,Current,0
+C100808,57,90889,23184,11.02,578,30.4,52.0,9,C,credit_card,MORTGAGE,Ontario,Current,0
+C100809,31,83926,12728,15.8,567,14.2,71.1,2,G,medical,RENT,Prairies,Current,0
+C100810,31,49131,24107,7.25,747,18.6,52.7,2,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100811,25,32704,25758,5.27,664,29.5,59.3,10,A,debt_consolidation,OTHER,Ontario,Charged Off,1
+C100812,67,72342,13665,18.28,627,24.2,100.0,7,G,medical,RENT,Ontario,Current,0
+C100813,61,76553,22132,8.87,730,16.2,56.6,1,C,medical,MORTGAGE,Ontario,Current,0
+C100814,26,97803,13372,6.45,731,6.8,65.8,9,A,home_improvement,RENT,Ontario,Current,0
+C100815,32,39287,5079,19.06,445,30.1,63.7,1,F,debt_consolidation,RENT,Prairies,Charged Off,1
+C100816,42,39819,18863,16.15,544,17.1,43.1,3,F,vacation,MORTGAGE,Atlantic,Charged Off,1
+C100817,62,73641,14704,9.45,784,17.3,35.3,11,C,small_business,RENT,Ontario,Current,0
+C100818,59,57987,14919,11.72,628,10.9,66.8,3,D,home_improvement,OWN,Ontario,Current,0
+C100819,62,25627,31827,6.24,593,27.4,64.2,1,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100820,59,70884,7319,7.74,792,23.1,47.6,15,A,credit_card,RENT,Ontario,Current,0
+C100821,50,26015,20680,10.38,681,17.8,45.7,3,C,major_purchase,MORTGAGE,Ontario,Current,0
+C100822,34,39130,11036,6.74,763,8.4,36.0,8,B,major_purchase,MORTGAGE,Ontario,Current,0
+C100823,49,110002,24358,10.78,673,30.3,47.0,13,D,credit_card,MORTGAGE,Atlantic,Current,0
+C100824,44,136107,20089,14.02,661,18.4,64.3,15,E,credit_card,MORTGAGE,Atlantic,Current,0
+C100825,65,34647,20655,7.12,744,7.3,59.5,12,A,home_improvement,OWN,Prairies,Current,0
+C100826,42,51626,11386,8.62,718,5.7,28.4,5,C,credit_card,RENT,West,Current,0
+C100827,56,61034,12641,9.34,827,12.0,51.1,13,B,credit_card,RENT,Ontario,Current,0
+C100828,29,133459,24491,15.89,667,12.3,39.0,0,F,debt_consolidation,RENT,Ontario,Current,0
+C100829,53,47964,30396,6.88,615,12.1,63.5,5,B,debt_consolidation,RENT,Ontario,Current,0
+C100830,42,48310,21362,11.44,683,24.7,46.0,3,D,small_business,MORTGAGE,Atlantic,Current,0
+C100831,41,120202,11718,12.1,743,15.4,72.6,8,C,debt_consolidation,RENT,West,Current,0
+C100832,56,50582,20373,6.33,768,19.0,34.8,14,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100833,43,82867,34992,11.12,635,14.4,56.6,12,D,medical,MORTGAGE,Atlantic,Current,0
+C100834,23,30800,18717,13.14,722,20.0,57.1,15,D,home_improvement,OWN,Atlantic,Current,0
+C100835,39,55434,28233,10.26,731,31.4,29.7,2,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100836,66,28373,12818,11.05,799,17.1,38.4,12,D,debt_consolidation,OWN,West,Current,0
+C100837,65,37237,17705,19.16,551,26.7,55.6,11,G,small_business,OWN,Prairies,Charged Off,1
+C100838,49,87347,22337,11.21,652,7.0,42.8,7,C,credit_card,RENT,Ontario,Current,0
+C100839,50,58545,20781,10.4,663,28.6,43.2,1,C,credit_card,MORTGAGE,Ontario,Current,0
+C100840,33,51865,12635,5.27,697,11.7,68.3,1,A,credit_card,RENT,Prairies,Current,0
+C100841,57,42747,12333,13.45,587,28.4,46.6,14,E,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100842,49,54215,24918,10.34,528,17.1,72.5,4,C,small_business,MORTGAGE,Ontario,Current,0
+C100843,22,68562,26341,8.43,656,22.3,57.3,10,C,debt_consolidation,RENT,Ontario,Current,0
+C100844,65,93182,28585,7.59,744,19.7,19.2,15,A,credit_card,RENT,Ontario,Current,0
+C100845,61,25000,30628,18.04,587,19.3,66.8,7,F,debt_consolidation,RENT,Prairies,Current,0
+C100846,24,41180,18942,7.72,808,24.1,13.6,3,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100847,40,64318,15822,12.43,659,14.2,62.7,7,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100848,55,57269,27457,7.42,795,20.4,31.0,3,A,major_purchase,RENT,Atlantic,Current,0
+C100849,55,71791,22991,20.35,606,21.3,56.0,2,G,debt_consolidation,RENT,Prairies,Charged Off,1
+C100850,28,67534,11123,7.87,769,17.4,19.0,12,A,debt_consolidation,RENT,Ontario,Current,0
+C100851,22,52199,10765,5.92,717,13.3,48.8,5,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100852,67,47236,21444,13.62,711,21.3,63.8,10,E,small_business,RENT,Atlantic,Charged Off,1
+C100853,63,53612,16759,16.6,617,15.0,40.4,11,F,credit_card,RENT,Prairies,Charged Off,1
+C100854,55,100402,17815,7.41,729,18.2,34.7,8,B,medical,OWN,Prairies,Current,0
+C100855,52,43071,25508,12.14,700,18.3,56.2,8,C,home_improvement,MORTGAGE,Ontario,Current,0
+C100856,53,58206,23313,13.96,642,15.7,61.5,2,D,credit_card,MORTGAGE,West,Current,0
+C100857,42,65023,27309,15.02,636,22.1,9.5,8,F,home_improvement,MORTGAGE,Ontario,Current,0
+C100858,53,120832,4479,7.81,825,17.4,73.9,12,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100859,35,52306,19774,9.1,665,13.7,60.4,3,C,medical,MORTGAGE,Atlantic,Current,0
+C100860,24,92177,22863,11.77,681,18.6,62.1,3,D,medical,RENT,Ontario,Current,0
+C100861,35,104234,7314,11.73,727,12.5,43.2,11,D,debt_consolidation,RENT,West,Current,0
+C100862,34,58181,13416,15.15,699,37.4,14.7,15,E,home_improvement,OTHER,Ontario,Charged Off,1
+C100863,35,54458,12117,8.93,681,25.4,61.7,6,C,debt_consolidation,OWN,Ontario,Current,0
+C100864,43,51633,18152,5.0,593,16.9,46.7,13,A,credit_card,MORTGAGE,Ontario,Current,0
+C100865,27,53363,29395,14.07,642,30.7,62.6,2,F,small_business,RENT,West,Current,0
+C100866,40,87940,32158,12.77,514,7.1,59.6,9,E,medical,RENT,West,Current,0
+C100867,42,66433,12300,13.21,717,3.1,50.9,15,E,debt_consolidation,RENT,Ontario,Current,0
+C100868,29,66561,21686,6.22,733,12.2,31.3,7,A,home_improvement,OWN,Prairies,Current,0
+C100869,42,36086,21912,6.7,757,6.9,58.8,8,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C100870,52,38740,20713,10.55,608,17.8,34.3,2,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100871,40,157086,20793,5.0,639,16.4,93.5,8,A,home_improvement,OWN,Ontario,Current,0
+C100872,21,55270,20126,16.66,606,30.4,96.1,9,G,home_improvement,RENT,West,Late (31-120 days),1
+C100873,54,42250,29813,7.33,700,8.5,77.4,15,B,small_business,MORTGAGE,Ontario,Current,0
+C100874,48,114005,25717,11.28,631,22.3,76.7,3,D,vacation,RENT,West,Late (31-120 days),1
+C100875,40,67969,10579,16.83,619,22.6,53.2,5,F,debt_consolidation,RENT,Prairies,Charged Off,1
+C100876,22,77666,23570,6.81,850,18.9,56.5,10,B,debt_consolidation,OWN,West,Current,0
+C100877,25,56268,24247,7.57,748,12.9,42.3,15,B,debt_consolidation,OWN,Ontario,Current,0
+C100878,24,51875,20205,11.35,716,29.2,18.7,3,D,debt_consolidation,RENT,Prairies,Current,0
+C100879,61,55475,25920,10.97,726,17.3,72.9,11,C,credit_card,RENT,Ontario,Current,0
+C100880,35,32137,19317,9.81,761,30.4,63.2,14,C,major_purchase,MORTGAGE,West,Current,0
+C100881,40,57551,19403,13.26,648,14.0,51.8,10,D,credit_card,RENT,Ontario,Current,0
+C100882,53,68406,18849,14.62,501,27.7,42.5,6,F,home_improvement,MORTGAGE,Ontario,Late (31-120 days),1
+C100883,51,137683,3872,9.94,670,17.6,39.9,3,C,credit_card,MORTGAGE,West,Current,0
+C100884,24,62237,17437,7.31,747,14.2,11.3,4,B,debt_consolidation,RENT,West,Current,0
+C100885,64,25000,13322,6.53,649,20.9,69.3,0,B,major_purchase,RENT,Prairies,Current,0
+C100886,33,57395,9695,7.92,692,14.4,19.8,2,B,home_improvement,RENT,Ontario,Current,0
+C100887,57,205413,28038,8.08,686,1.0,54.3,7,A,credit_card,OWN,Atlantic,Current,0
+C100888,60,88421,21529,5.0,807,1.0,23.9,2,A,medical,RENT,West,Current,0
+C100889,46,41569,17791,11.85,699,28.4,22.4,0,D,credit_card,MORTGAGE,Ontario,Current,0
+C100890,28,78120,14046,6.43,738,25.1,49.1,11,B,debt_consolidation,RENT,Ontario,Current,0
+C100891,46,42877,20073,16.25,626,37.2,48.2,1,G,credit_card,MORTGAGE,Ontario,Charged Off,1
+C100892,32,32558,24940,7.06,700,16.4,63.1,2,B,home_improvement,RENT,Ontario,Current,0
+C100893,60,51187,12211,5.46,735,6.0,22.3,9,A,credit_card,RENT,Atlantic,Current,0
+C100894,56,62392,17966,11.51,593,16.6,43.3,14,D,major_purchase,MORTGAGE,Ontario,Current,0
+C100895,59,25785,24076,15.73,494,22.6,22.2,11,F,credit_card,MORTGAGE,Ontario,Charged Off,1
+C100896,59,35699,4448,6.02,710,9.5,7.8,0,B,credit_card,RENT,Prairies,Current,0
+C100897,29,60153,17597,7.25,720,28.0,78.7,2,B,major_purchase,RENT,Ontario,Current,0
+C100898,22,49827,14995,8.6,769,32.2,79.8,11,B,credit_card,OWN,Atlantic,Current,0
+C100899,50,71515,17063,8.37,766,21.3,44.2,11,C,credit_card,RENT,Atlantic,Current,0
+C100900,49,34662,14489,9.57,766,17.9,27.7,6,C,debt_consolidation,RENT,Prairies,Current,0
+C100901,61,82566,18963,8.35,647,7.4,47.0,15,B,credit_card,RENT,Ontario,Current,0
+C100902,50,35147,31465,5.06,705,25.8,63.3,14,A,credit_card,RENT,West,Current,0
+C100903,58,125396,15733,10.41,706,18.5,38.2,11,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100904,37,27665,20042,16.17,731,22.0,49.7,11,G,credit_card,MORTGAGE,Prairies,Current,0
+C100905,26,36620,31963,13.07,739,22.9,44.5,12,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100906,22,72245,14150,10.44,742,13.9,34.3,2,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100907,41,126615,30703,6.07,703,16.0,38.3,11,A,credit_card,RENT,West,Current,0
+C100908,21,68994,18037,9.35,653,6.4,57.2,15,B,debt_consolidation,MORTGAGE,West,Current,0
+C100909,45,77133,30473,7.6,745,24.1,26.7,3,B,home_improvement,RENT,West,Current,0
+C100910,39,60349,23251,13.26,575,20.3,66.5,0,E,home_improvement,RENT,Prairies,Current,0
+C100911,33,37727,20150,17.65,601,30.6,47.8,5,F,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C100912,48,48023,17541,18.21,608,21.1,58.0,4,F,debt_consolidation,RENT,Ontario,Current,0
+C100913,52,34705,13632,17.17,680,23.0,74.6,15,G,credit_card,RENT,Ontario,Current,0
+C100914,22,33677,18531,17.86,572,15.5,55.6,7,G,debt_consolidation,RENT,Ontario,Charged Off,1
+C100915,43,71739,24282,19.25,458,29.3,84.7,10,G,credit_card,MORTGAGE,Prairies,Charged Off,1
+C100916,65,36119,17908,5.91,752,8.9,11.4,15,A,small_business,RENT,Ontario,Current,0
+C100917,34,69134,15784,6.71,686,11.6,40.7,12,A,home_improvement,MORTGAGE,Ontario,Current,0
+C100918,57,33329,16245,8.94,704,16.5,48.2,11,B,credit_card,MORTGAGE,West,Current,0
+C100919,36,68417,24947,9.33,675,18.8,84.7,15,C,medical,MORTGAGE,Ontario,Current,0
+C100920,33,48055,26576,6.5,709,3.1,12.0,11,A,debt_consolidation,RENT,Ontario,Current,0
+C100921,61,112755,13330,13.99,679,19.4,48.0,3,E,major_purchase,MORTGAGE,Ontario,Current,0
+C100922,37,69264,13320,10.54,574,25.1,84.7,11,D,major_purchase,RENT,Ontario,Current,0
+C100923,61,104412,20656,8.81,652,15.4,37.9,5,C,credit_card,OWN,West,Current,0
+C100924,51,42615,28693,5.22,762,13.4,39.0,5,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100925,59,61406,26022,9.11,668,17.6,56.6,10,B,debt_consolidation,RENT,West,Current,0
+C100926,59,38504,9237,7.15,636,14.1,56.7,5,A,medical,MORTGAGE,Atlantic,Current,0
+C100927,63,49706,16151,14.9,673,13.8,78.4,0,E,debt_consolidation,MORTGAGE,West,Current,0
+C100928,47,53213,11486,10.53,742,17.7,52.6,15,C,major_purchase,MORTGAGE,Ontario,Current,0
+C100929,65,43190,16127,12.5,656,26.5,75.6,9,D,credit_card,RENT,Ontario,Current,0
+C100930,23,34649,29231,8.33,594,9.1,50.4,10,B,credit_card,MORTGAGE,Prairies,Current,0
+C100931,44,31695,8042,8.49,741,13.9,31.3,12,B,home_improvement,MORTGAGE,Prairies,Current,0
+C100932,39,25000,6668,10.57,589,8.3,53.2,10,C,debt_consolidation,OWN,West,Current,0
+C100933,25,37222,12200,12.31,653,27.6,31.1,9,E,credit_card,RENT,Ontario,Current,0
+C100934,62,79409,20011,13.05,587,20.4,66.1,12,E,medical,MORTGAGE,Atlantic,Current,0
+C100935,58,29164,22345,6.77,638,10.5,46.2,4,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100936,56,32349,21062,17.33,590,23.1,45.1,13,F,medical,MORTGAGE,Ontario,Late (31-120 days),1
+C100937,50,134041,26230,7.98,714,6.6,55.8,11,A,vacation,MORTGAGE,Atlantic,Current,0
+C100938,49,44962,5658,13.4,579,15.3,37.5,2,F,debt_consolidation,RENT,Ontario,Charged Off,1
+C100939,38,69180,26318,7.88,756,4.8,57.2,2,A,credit_card,MORTGAGE,Ontario,Current,0
+C100940,53,79941,15815,8.1,677,9.0,41.3,14,B,debt_consolidation,RENT,Prairies,Current,0
+C100941,66,80671,23120,15.22,690,30.5,69.7,14,E,home_improvement,RENT,Prairies,Current,0
+C100942,32,30181,8736,6.61,739,9.9,37.7,15,A,vacation,MORTGAGE,West,Current,0
+C100943,36,53961,18035,11.73,642,21.3,64.2,1,C,major_purchase,RENT,West,Current,0
+C100944,26,28906,19654,10.25,632,12.1,56.9,14,C,medical,RENT,Ontario,Current,0
+C100945,63,180024,26090,6.36,611,21.8,68.8,13,B,debt_consolidation,RENT,Ontario,Current,0
+C100946,45,29211,6903,11.87,674,12.3,52.1,12,D,credit_card,MORTGAGE,West,Current,0
+C100947,48,37364,18215,14.62,616,21.3,25.1,7,E,debt_consolidation,OWN,Atlantic,Current,0
+C100948,33,37486,10403,15.74,484,22.9,84.2,8,F,major_purchase,MORTGAGE,Prairies,Current,0
+C100949,22,30531,21538,8.79,673,32.8,48.7,6,B,debt_consolidation,RENT,Prairies,Current,0
+C100950,58,110047,23441,9.92,630,22.4,68.0,0,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C100951,61,178100,27010,7.29,789,12.3,53.0,8,B,debt_consolidation,RENT,Atlantic,Current,0
+C100952,37,48335,14255,6.7,608,21.3,41.7,3,B,debt_consolidation,OTHER,Ontario,Current,0
+C100953,56,33051,24491,5.53,645,30.0,36.1,3,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100954,47,25000,27526,16.25,675,11.1,61.9,0,F,debt_consolidation,RENT,West,Current,0
+C100955,51,53645,6497,13.65,689,16.6,43.5,7,F,major_purchase,MORTGAGE,Prairies,Current,0
+C100956,29,51929,22286,13.06,595,19.3,73.6,0,E,small_business,RENT,Ontario,Current,0
+C100957,49,44664,24710,7.6,645,15.1,49.4,13,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C100958,28,66146,16189,9.26,714,15.7,65.3,14,C,small_business,RENT,Ontario,Current,0
+C100959,31,71527,9525,11.44,552,8.9,68.0,12,C,credit_card,OWN,West,Current,0
+C100960,37,69244,24601,8.58,578,27.8,63.4,4,C,small_business,MORTGAGE,Ontario,Current,0
+C100961,31,51935,9603,10.84,665,8.0,44.2,2,C,debt_consolidation,OWN,Prairies,Current,0
+C100962,63,36471,16752,9.42,809,13.6,43.1,8,A,credit_card,OWN,Ontario,Current,0
+C100963,22,80791,17719,7.74,700,22.3,69.5,10,A,credit_card,RENT,Ontario,Current,0
+C100964,63,60212,23009,18.16,598,23.8,55.5,0,G,debt_consolidation,MORTGAGE,Atlantic,Charged Off,1
+C100965,28,89300,13614,11.03,742,11.1,54.1,13,C,credit_card,OWN,Atlantic,Current,0
+C100966,61,85437,13208,16.36,708,14.6,48.2,7,G,small_business,RENT,Ontario,Charged Off,1
+C100967,36,31578,18692,5.0,692,13.4,50.9,13,A,small_business,RENT,West,Current,0
+C100968,64,31401,25045,10.03,679,12.7,80.8,1,C,credit_card,RENT,Atlantic,Current,0
+C100969,46,42617,34012,8.48,802,17.9,61.1,6,B,credit_card,RENT,Atlantic,Current,0
+C100970,44,37223,7448,9.31,618,6.7,56.3,7,B,small_business,OWN,Atlantic,Current,0
+C100971,27,84109,20207,5.32,781,20.7,45.1,0,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100972,41,70129,10394,6.23,668,15.8,38.0,11,A,debt_consolidation,MORTGAGE,West,Current,0
+C100973,47,98187,25132,16.19,620,23.8,51.6,14,F,credit_card,OWN,Ontario,Current,0
+C100974,67,71569,11430,7.84,689,26.6,54.5,8,B,debt_consolidation,RENT,Prairies,Current,0
+C100975,33,65768,13277,11.91,605,16.4,71.2,6,D,credit_card,MORTGAGE,Prairies,Current,0
+C100976,24,102732,13875,8.97,626,12.9,67.7,10,C,debt_consolidation,RENT,Prairies,Current,0
+C100977,32,73967,17467,10.34,695,14.2,28.5,5,C,credit_card,RENT,Ontario,Current,0
+C100978,32,61737,20262,10.23,735,16.7,62.7,5,C,home_improvement,RENT,Prairies,Current,0
+C100979,65,116565,21386,7.47,695,15.9,46.8,12,B,small_business,RENT,Ontario,Current,0
+C100980,28,63059,17960,18.8,596,18.2,38.9,9,G,home_improvement,RENT,Ontario,Current,0
+C100981,67,52211,8691,15.23,667,6.8,74.8,4,E,credit_card,MORTGAGE,Ontario,Current,0
+C100982,26,41068,23095,12.81,605,15.6,82.3,6,D,medical,RENT,West,Current,0
+C100983,59,82155,17629,8.75,721,20.5,51.0,13,C,small_business,RENT,Atlantic,Current,0
+C100984,40,104472,26132,6.12,769,16.0,55.0,8,A,credit_card,MORTGAGE,Prairies,Current,0
+C100985,23,58527,13046,14.91,757,30.9,57.1,1,F,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C100986,49,107857,6784,8.12,681,30.2,74.7,13,B,home_improvement,MORTGAGE,Ontario,Current,0
+C100987,55,25000,17762,5.0,699,20.3,61.2,11,A,credit_card,OWN,Prairies,Current,0
+C100988,60,58399,27072,9.53,744,26.2,20.4,4,B,home_improvement,MORTGAGE,Ontario,Current,0
+C100989,29,58804,19127,14.94,681,26.4,85.8,15,E,small_business,MORTGAGE,West,Current,0
+C100990,50,43168,16602,13.38,629,31.5,73.1,15,D,medical,MORTGAGE,Atlantic,Current,0
+C100991,47,175034,11908,13.26,636,32.5,44.2,15,D,medical,MORTGAGE,West,Current,0
+C100992,41,58117,30304,13.68,666,27.7,32.3,6,E,home_improvement,OWN,Atlantic,Current,0
+C100993,63,49837,10793,7.49,656,21.4,60.8,14,B,vacation,OWN,Ontario,Charged Off,1
+C100994,40,60578,12922,18.09,591,21.1,52.1,12,F,medical,RENT,West,Late (31-120 days),1
+C100995,38,25000,21990,9.8,685,17.7,55.2,13,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C100996,45,42534,5008,10.37,713,17.1,60.3,8,D,home_improvement,MORTGAGE,Prairies,Current,0
+C100997,64,93196,26922,7.21,691,19.3,38.6,4,A,debt_consolidation,RENT,Atlantic,Current,0
+C100998,61,45115,22369,18.17,491,19.0,45.3,3,G,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C100999,54,41233,24295,9.81,597,15.2,63.5,15,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101000,24,107935,21907,6.29,655,1.0,42.1,8,A,credit_card,MORTGAGE,Prairies,Current,0
+C101001,35,109438,16872,9.98,608,30.1,58.3,14,C,debt_consolidation,RENT,Atlantic,Charged Off,1
+C101002,21,75557,10558,7.83,715,13.5,22.6,8,A,debt_consolidation,RENT,Ontario,Current,0
+C101003,25,48786,17019,5.0,659,18.2,46.9,8,A,debt_consolidation,RENT,Ontario,Current,0
+C101004,60,53757,11173,11.3,619,29.7,67.6,1,D,home_improvement,MORTGAGE,Prairies,Charged Off,1
+C101005,59,41695,21403,6.94,659,18.6,62.3,6,B,major_purchase,OWN,Prairies,Current,0
+C101006,25,38267,23647,13.37,590,32.6,43.0,8,F,vacation,OWN,Ontario,Charged Off,1
+C101007,42,37422,28338,9.05,775,7.8,20.7,1,B,credit_card,RENT,Ontario,Current,0
+C101008,34,45337,20602,11.33,694,36.3,48.8,2,D,debt_consolidation,RENT,Ontario,Current,0
+C101009,24,37586,24472,11.09,681,25.6,59.7,9,C,major_purchase,MORTGAGE,Ontario,Current,0
+C101010,38,29624,15920,12.47,633,21.0,60.9,3,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101011,25,66087,14652,10.73,656,28.0,42.4,11,C,vacation,MORTGAGE,Ontario,Current,0
+C101012,55,66541,21316,9.45,698,9.8,53.5,7,C,home_improvement,RENT,Ontario,Current,0
+C101013,66,128715,15295,17.08,624,22.0,81.4,6,G,credit_card,RENT,Prairies,Late (31-120 days),1
+C101014,40,44323,19884,8.11,652,26.6,55.7,1,B,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101015,32,68408,10572,7.1,726,1.9,16.4,6,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101016,44,68921,11829,11.94,546,23.4,64.5,8,D,credit_card,RENT,Ontario,Current,0
+C101017,66,53411,22448,13.16,648,24.7,89.1,9,E,credit_card,OWN,Atlantic,Current,0
+C101018,28,83696,24207,5.0,766,28.8,19.3,4,A,major_purchase,MORTGAGE,Ontario,Current,0
+C101019,53,84868,11100,10.24,665,6.9,51.5,0,C,home_improvement,OWN,Prairies,Current,0
+C101020,25,69379,22694,15.34,714,33.8,42.8,14,F,credit_card,MORTGAGE,Ontario,Charged Off,1
+C101021,35,53368,14271,11.91,610,15.6,57.2,15,D,debt_consolidation,MORTGAGE,West,Current,0
+C101022,41,50976,18116,17.71,604,20.9,59.5,14,G,credit_card,OWN,West,Current,0
+C101023,39,32355,27919,9.47,678,9.4,70.4,4,C,debt_consolidation,OWN,Ontario,Current,0
+C101024,29,41662,23652,12.35,652,11.9,53.5,9,D,home_improvement,OWN,Ontario,Current,0
+C101025,57,45256,23571,8.67,696,19.3,71.3,2,B,home_improvement,MORTGAGE,West,Current,0
+C101026,52,36106,31362,18.36,620,14.7,52.5,14,F,major_purchase,MORTGAGE,Atlantic,Current,0
+C101027,41,72982,13073,8.91,749,21.7,37.6,0,B,credit_card,RENT,Prairies,Current,0
+C101028,40,102589,11099,13.91,734,14.9,33.1,7,D,debt_consolidation,RENT,Atlantic,Current,0
+C101029,24,39790,12945,9.02,680,9.5,17.0,13,C,major_purchase,OWN,Ontario,Current,0
+C101030,52,68019,16218,8.08,725,14.3,50.9,11,C,home_improvement,RENT,Atlantic,Current,0
+C101031,31,37596,2000,11.98,619,21.9,91.7,13,D,home_improvement,MORTGAGE,Ontario,Current,0
+C101032,35,52197,16548,11.03,722,16.1,54.4,7,C,credit_card,OWN,Atlantic,Current,0
+C101033,61,43886,14188,16.84,572,22.7,71.0,1,F,major_purchase,OWN,Ontario,Charged Off,1
+C101034,51,78500,23486,11.45,740,22.9,37.2,0,C,debt_consolidation,OWN,West,Current,0
+C101035,53,44115,20467,8.96,780,27.1,36.9,2,D,credit_card,MORTGAGE,Prairies,Current,0
+C101036,33,94395,13795,9.5,695,14.3,66.1,0,B,small_business,MORTGAGE,Ontario,Current,0
+C101037,44,53607,22130,10.4,559,10.7,95.9,7,C,debt_consolidation,OTHER,West,Charged Off,1
+C101038,21,44698,23063,8.15,650,18.5,78.9,0,C,major_purchase,RENT,Atlantic,Current,0
+C101039,32,34065,12620,6.87,792,18.3,54.8,2,A,credit_card,RENT,West,Current,0
+C101040,58,67100,14549,6.2,754,4.8,44.1,6,A,debt_consolidation,OWN,Atlantic,Current,0
+C101041,43,89576,2422,12.46,672,13.3,54.1,11,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101042,50,67710,10365,13.2,713,14.5,33.4,10,D,major_purchase,MORTGAGE,Ontario,Current,0
+C101043,58,163976,12803,12.52,685,18.0,23.2,0,D,small_business,RENT,Atlantic,Current,0
+C101044,65,113937,18519,5.0,791,9.7,20.1,14,A,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101045,24,52136,11382,7.83,753,21.4,44.5,8,B,debt_consolidation,OWN,Ontario,Current,0
+C101046,48,51890,14406,6.06,786,5.3,35.6,5,B,debt_consolidation,MORTGAGE,West,Current,0
+C101047,67,73966,9423,14.78,656,9.9,25.2,6,E,debt_consolidation,RENT,Ontario,Current,0
+C101048,30,41064,19198,15.68,686,18.7,48.5,13,E,small_business,MORTGAGE,Ontario,Current,0
+C101049,61,101198,20980,6.51,685,15.3,43.5,7,B,debt_consolidation,OWN,Prairies,Current,0
+C101050,48,70454,20817,11.19,625,9.3,33.1,3,D,debt_consolidation,OWN,West,Current,0
+C101051,35,67199,18087,5.0,818,10.8,31.5,6,A,debt_consolidation,RENT,Prairies,Current,0
+C101052,57,81563,7212,7.46,714,13.7,41.1,1,B,credit_card,MORTGAGE,West,Current,0
+C101053,61,129998,13660,6.49,768,12.2,31.2,2,A,home_improvement,RENT,Ontario,Current,0
+C101054,27,64662,15149,7.47,709,17.6,63.9,5,B,home_improvement,MORTGAGE,Prairies,Current,0
+C101055,53,56905,15177,12.78,626,14.9,19.9,3,D,credit_card,RENT,Atlantic,Current,0
+C101056,65,118057,18525,17.28,615,32.8,19.3,5,F,vacation,MORTGAGE,Atlantic,Current,0
+C101057,52,92540,27979,9.32,781,19.9,41.3,1,B,credit_card,MORTGAGE,Atlantic,Current,0
+C101058,46,51821,23685,8.66,711,12.4,48.8,9,C,major_purchase,RENT,Ontario,Current,0
+C101059,27,60014,11087,13.66,564,20.2,66.6,1,D,home_improvement,RENT,Prairies,Current,0
+C101060,42,65377,22749,19.76,580,24.9,48.3,3,G,debt_consolidation,RENT,Ontario,Charged Off,1
+C101061,63,70461,22482,13.86,756,28.0,26.8,15,D,major_purchase,RENT,Ontario,Current,0
+C101062,58,32517,12358,7.81,690,12.3,48.7,0,B,credit_card,MORTGAGE,Atlantic,Current,0
+C101063,42,29908,23942,11.1,559,24.9,51.8,4,D,home_improvement,RENT,Prairies,Current,0
+C101064,35,40162,16877,6.82,806,16.8,67.1,8,B,debt_consolidation,RENT,West,Current,0
+C101065,58,38788,8130,16.68,630,34.4,48.0,4,G,credit_card,OTHER,Atlantic,Current,0
+C101066,66,44814,21186,8.01,698,25.5,47.2,5,B,major_purchase,RENT,Ontario,Current,0
+C101067,35,79668,19519,13.02,638,20.9,97.7,2,D,debt_consolidation,OWN,West,Charged Off,1
+C101068,59,55491,16406,7.57,784,13.2,37.5,6,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101069,35,65407,17738,9.42,650,21.5,62.2,12,C,debt_consolidation,MORTGAGE,West,Current,0
+C101070,59,34512,12966,15.95,677,21.2,61.6,9,F,credit_card,MORTGAGE,Ontario,Current,0
+C101071,66,48643,22271,11.87,688,31.3,62.2,14,D,major_purchase,RENT,Prairies,Current,0
+C101072,52,77985,17696,9.24,693,18.5,53.8,11,C,home_improvement,OWN,Prairies,Current,0
+C101073,44,78255,19165,16.88,622,19.7,58.0,12,F,medical,MORTGAGE,West,Current,0
+C101074,35,43215,20500,14.44,626,17.8,56.0,6,E,credit_card,RENT,Prairies,Current,0
+C101075,23,64392,9918,8.17,760,8.0,32.6,9,B,credit_card,MORTGAGE,Ontario,Current,0
+C101076,23,161052,11740,10.43,632,21.9,59.5,9,C,debt_consolidation,MORTGAGE,West,Current,0
+C101077,60,59402,2530,10.74,591,12.3,93.6,13,C,debt_consolidation,OWN,Ontario,Charged Off,1
+C101078,52,43830,21953,12.73,692,27.2,70.5,8,D,small_business,MORTGAGE,Ontario,Current,0
+C101079,31,55371,9515,6.99,737,7.4,50.4,6,B,debt_consolidation,RENT,Ontario,Current,0
+C101080,46,62410,18928,9.08,728,17.4,61.1,1,B,debt_consolidation,OWN,Ontario,Current,0
+C101081,62,55937,20597,16.31,636,30.6,37.7,13,F,major_purchase,OWN,West,Current,0
+C101082,51,59035,22216,15.48,596,7.4,52.0,6,F,credit_card,MORTGAGE,West,Current,0
+C101083,64,31271,9572,14.28,679,35.1,66.8,12,E,debt_consolidation,RENT,Ontario,Current,0
+C101084,26,38825,17544,18.41,589,21.0,84.0,10,G,home_improvement,MORTGAGE,Atlantic,Charged Off,1
+C101085,24,55983,29692,13.3,631,20.5,39.9,0,D,credit_card,MORTGAGE,Atlantic,Current,0
+C101086,52,55583,30000,12.74,619,25.0,46.0,10,E,major_purchase,RENT,Atlantic,Charged Off,1
+C101087,48,46407,24911,15.59,747,26.1,83.3,7,E,home_improvement,OWN,Ontario,Current,0
+C101088,53,55290,20362,10.03,585,19.9,59.3,3,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101089,67,61541,10964,9.39,707,25.0,80.2,4,C,debt_consolidation,OWN,Prairies,Current,0
+C101090,26,89343,23030,7.36,610,20.1,59.2,10,B,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101091,64,57260,16894,10.8,652,31.8,56.4,1,D,home_improvement,RENT,Atlantic,Current,0
+C101092,23,71653,21924,5.91,678,20.2,44.3,9,B,credit_card,OWN,Ontario,Current,0
+C101093,45,46924,13570,8.81,587,30.3,74.4,13,B,small_business,MORTGAGE,Prairies,Current,0
+C101094,60,77454,16789,12.38,701,24.3,72.4,1,C,credit_card,MORTGAGE,Prairies,Current,0
+C101095,52,70904,19149,8.06,659,5.4,32.8,0,C,debt_consolidation,RENT,Prairies,Current,0
+C101096,31,88399,19724,6.86,587,34.8,51.1,0,B,debt_consolidation,RENT,Prairies,Current,0
+C101097,49,82542,21456,14.9,682,17.0,66.0,11,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101098,63,78036,13946,13.95,715,31.5,44.4,13,E,credit_card,RENT,Ontario,Charged Off,1
+C101099,30,57280,8597,7.0,806,15.2,30.3,15,A,credit_card,OWN,West,Current,0
+C101100,65,66851,29373,5.88,744,22.4,62.5,0,A,medical,OWN,Ontario,Current,0
+C101101,51,96624,35425,7.3,705,11.7,67.4,7,B,debt_consolidation,MORTGAGE,Prairies,Charged Off,1
+C101102,25,44648,21132,13.73,709,25.4,39.2,0,E,home_improvement,RENT,Ontario,Current,0
+C101103,36,45126,8732,11.14,729,19.2,49.4,5,E,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101104,61,64968,12588,5.0,786,26.1,19.1,4,A,home_improvement,RENT,Ontario,Current,0
+C101105,36,72177,21564,15.14,584,24.1,41.5,9,E,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C101106,65,41322,27388,7.43,735,21.6,47.3,14,A,home_improvement,MORTGAGE,Ontario,Current,0
+C101107,40,57893,9510,9.69,726,1.4,46.4,12,B,debt_consolidation,OWN,Ontario,Current,0
+C101108,37,57394,17130,18.53,492,23.4,47.9,1,G,debt_consolidation,RENT,Prairies,Charged Off,1
+C101109,61,25000,19372,5.29,728,19.4,32.8,3,B,credit_card,RENT,Ontario,Current,0
+C101110,57,54240,24052,5.24,849,16.6,16.4,4,A,credit_card,OTHER,West,Current,0
+C101111,32,55782,15595,11.59,715,24.7,54.9,4,C,credit_card,MORTGAGE,Ontario,Late (31-120 days),1
+C101112,57,55707,7053,13.95,739,16.9,9.3,5,D,debt_consolidation,OWN,Ontario,Current,0
+C101113,32,113228,22348,17.64,624,22.8,36.1,9,F,medical,OWN,Ontario,Current,0
+C101114,63,34644,25874,17.72,588,32.3,23.8,11,G,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101115,21,41312,17422,5.0,745,1.0,51.8,15,A,credit_card,MORTGAGE,Prairies,Current,0
+C101116,52,25000,20837,5.95,679,19.1,17.3,11,A,major_purchase,MORTGAGE,Ontario,Current,0
+C101117,28,48223,14679,14.02,583,18.7,58.3,4,E,home_improvement,OWN,Prairies,Current,0
+C101118,52,50109,12080,9.88,772,10.1,71.5,2,B,debt_consolidation,OWN,Ontario,Current,0
+C101119,66,47596,25185,16.27,689,24.9,79.0,6,F,credit_card,RENT,Ontario,Late (31-120 days),1
+C101120,52,98563,20712,12.02,603,28.1,23.6,12,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101121,41,88193,21433,6.09,777,22.3,47.0,15,A,credit_card,RENT,Atlantic,Current,0
+C101122,59,62009,28515,14.48,631,20.1,35.9,6,E,credit_card,MORTGAGE,Ontario,Current,0
+C101123,30,50677,10616,6.75,743,21.1,22.9,2,A,small_business,MORTGAGE,Prairies,Current,0
+C101124,46,95015,14136,9.13,705,24.1,45.5,0,C,major_purchase,OWN,Atlantic,Current,0
+C101125,66,59344,19106,8.73,735,17.4,67.2,1,C,debt_consolidation,RENT,Atlantic,Current,0
+C101126,37,41431,14050,11.64,685,13.1,60.0,10,C,debt_consolidation,RENT,Prairies,Current,0
+C101127,22,27658,23482,10.03,736,15.1,32.1,9,D,credit_card,RENT,West,Current,0
+C101128,41,49090,16688,13.97,675,25.4,62.8,10,D,credit_card,RENT,Prairies,Current,0
+C101129,43,84086,11052,15.71,626,23.7,13.8,0,G,credit_card,RENT,Ontario,Current,0
+C101130,59,166782,18460,17.3,546,16.7,47.3,6,G,home_improvement,OWN,Atlantic,Charged Off,1
+C101131,58,61557,19192,11.17,799,6.2,24.9,2,C,credit_card,RENT,Ontario,Current,0
+C101132,36,42429,24543,6.0,750,20.8,45.2,5,A,medical,RENT,Prairies,Current,0
+C101133,57,35128,20752,10.42,697,15.7,44.6,9,D,credit_card,MORTGAGE,West,Current,0
+C101134,27,76755,21228,18.51,504,26.3,61.8,4,G,debt_consolidation,RENT,Ontario,Charged Off,1
+C101135,29,27063,20242,8.08,657,25.2,48.4,10,B,debt_consolidation,RENT,Prairies,Current,0
+C101136,49,76700,16682,9.74,748,8.8,44.4,4,C,home_improvement,OWN,West,Current,0
+C101137,54,86506,12986,9.25,696,17.7,58.1,8,C,debt_consolidation,RENT,West,Current,0
+C101138,58,72862,20022,5.96,619,13.8,57.4,7,A,debt_consolidation,RENT,West,Current,0
+C101139,50,54239,15668,11.3,715,22.2,41.6,6,D,debt_consolidation,MORTGAGE,West,Current,0
+C101140,27,77205,29829,10.92,672,25.2,57.6,2,B,small_business,RENT,Ontario,Charged Off,1
+C101141,52,64662,27395,13.71,714,11.7,61.7,9,E,medical,RENT,Prairies,Current,0
+C101142,41,42186,22430,13.55,631,25.0,43.7,15,E,credit_card,RENT,Prairies,Current,0
+C101143,33,137680,20649,13.35,647,28.2,51.3,10,E,debt_consolidation,RENT,Ontario,Charged Off,1
+C101144,36,51110,17384,12.13,745,16.7,65.2,11,C,credit_card,OWN,Atlantic,Charged Off,1
+C101145,59,84888,9172,6.03,653,15.5,32.1,12,B,credit_card,RENT,Ontario,Current,0
+C101146,29,25000,16487,12.43,603,22.4,88.6,0,D,vacation,RENT,Ontario,Current,0
+C101147,47,106342,18710,13.71,625,23.4,30.1,12,E,credit_card,RENT,Ontario,Late (31-120 days),1
+C101148,24,115953,19606,8.29,725,22.1,39.7,3,C,home_improvement,OWN,Ontario,Current,0
+C101149,55,60683,21287,15.02,541,26.4,44.1,10,F,medical,RENT,Ontario,Late (31-120 days),1
+C101150,28,76991,24449,6.38,632,8.1,93.0,15,A,home_improvement,OWN,Ontario,Current,0
+C101151,65,76982,13155,14.96,659,29.4,42.4,14,F,debt_consolidation,RENT,Ontario,Current,0
+C101152,62,44835,13218,6.31,691,23.2,39.7,6,A,home_improvement,OWN,Ontario,Current,0
+C101153,61,76589,28156,8.07,702,16.3,41.2,13,A,credit_card,RENT,Prairies,Current,0
+C101154,37,41611,23397,10.2,578,7.5,59.9,9,C,credit_card,RENT,Prairies,Current,0
+C101155,57,45527,15265,5.0,687,14.2,43.2,2,A,vacation,MORTGAGE,Prairies,Current,0
+C101156,27,99422,17250,5.0,724,16.4,43.6,3,A,debt_consolidation,RENT,Prairies,Current,0
+C101157,34,92837,17281,5.66,775,7.0,1.0,15,A,credit_card,MORTGAGE,Ontario,Current,0
+C101158,27,43570,18221,9.58,638,15.5,54.2,14,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101159,23,43040,21309,14.18,727,11.1,46.1,14,E,debt_consolidation,MORTGAGE,West,Current,0
+C101160,38,44778,35745,6.37,686,19.3,67.9,6,A,home_improvement,RENT,Prairies,Current,0
+C101161,48,83257,19328,14.08,620,20.7,78.2,5,D,small_business,MORTGAGE,Prairies,Current,0
+C101162,61,38178,22638,14.0,721,9.5,42.9,12,E,home_improvement,RENT,Ontario,Current,0
+C101163,22,70300,6195,5.0,736,17.5,59.7,0,A,debt_consolidation,OTHER,Prairies,Current,0
+C101164,40,83791,14606,7.38,694,14.6,28.7,14,A,debt_consolidation,MORTGAGE,West,Current,0
+C101165,54,57543,26602,15.52,627,24.6,67.9,9,E,credit_card,MORTGAGE,West,Current,0
+C101166,30,94328,20816,14.28,710,18.3,36.9,10,E,credit_card,OWN,Ontario,Current,0
+C101167,55,52212,2000,9.7,761,12.4,21.6,7,C,small_business,MORTGAGE,West,Current,0
+C101168,47,54381,22718,14.75,591,15.6,53.7,15,E,home_improvement,MORTGAGE,Ontario,Current,0
+C101169,47,38570,31427,5.75,722,11.2,71.4,11,A,major_purchase,RENT,Ontario,Current,0
+C101170,26,94630,4029,5.53,707,16.6,50.7,0,B,small_business,MORTGAGE,Atlantic,Current,0
+C101171,28,42407,28636,12.68,604,20.5,82.9,8,D,credit_card,RENT,Ontario,Charged Off,1
+C101172,62,70080,2000,9.07,699,15.2,34.6,13,B,home_improvement,RENT,West,Current,0
+C101173,62,57983,24566,13.73,658,16.5,70.4,1,D,small_business,MORTGAGE,Prairies,Late (31-120 days),1
+C101174,42,37281,17939,9.12,743,15.5,32.7,11,C,medical,RENT,Ontario,Current,0
+C101175,49,45520,2000,12.27,724,37.1,50.1,3,D,credit_card,MORTGAGE,Prairies,Current,0
+C101176,46,111557,21123,10.3,662,12.6,55.1,8,C,home_improvement,RENT,Atlantic,Current,0
+C101177,45,65562,26056,8.1,690,12.6,60.7,14,B,credit_card,RENT,Ontario,Current,0
+C101178,54,38021,20547,8.14,739,39.6,49.3,7,B,small_business,OWN,West,Current,0
+C101179,47,68693,22094,8.04,670,19.4,37.2,0,B,medical,RENT,West,Current,0
+C101180,26,56064,15118,12.25,690,9.8,64.7,0,D,medical,MORTGAGE,Atlantic,Current,0
+C101181,24,220000,4970,6.89,719,20.9,77.6,11,A,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101182,60,68071,22843,7.46,671,8.6,39.9,14,A,debt_consolidation,OWN,Atlantic,Current,0
+C101183,55,50449,30248,5.09,671,21.4,17.4,4,A,small_business,RENT,Prairies,Current,0
+C101184,30,113438,25907,5.79,804,13.5,48.3,14,A,home_improvement,MORTGAGE,Ontario,Current,0
+C101185,23,26148,4085,13.49,627,17.9,48.1,7,E,medical,MORTGAGE,West,Current,0
+C101186,31,62470,7396,7.32,792,27.8,38.0,0,B,debt_consolidation,RENT,Prairies,Current,0
+C101187,48,146898,12078,16.06,564,28.0,69.3,8,G,major_purchase,RENT,Ontario,Current,0
+C101188,48,56824,6849,6.03,740,21.8,36.5,15,A,home_improvement,RENT,Atlantic,Current,0
+C101189,28,27447,18309,12.58,790,22.5,35.7,4,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101190,29,50103,20754,9.81,622,14.9,52.7,15,C,debt_consolidation,RENT,Ontario,Current,0
+C101191,30,115212,7988,7.99,598,20.8,83.0,10,B,home_improvement,RENT,West,Current,0
+C101192,41,70915,23440,16.5,685,31.0,49.8,6,F,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101193,31,41049,22208,19.69,547,24.9,38.5,11,G,small_business,MORTGAGE,West,Current,0
+C101194,42,43987,14163,15.5,613,35.1,33.7,6,F,credit_card,RENT,Atlantic,Current,0
+C101195,21,46543,16792,6.59,670,22.5,53.0,1,B,credit_card,RENT,West,Late (31-120 days),1
+C101196,64,70442,4351,7.89,717,18.0,26.3,13,B,debt_consolidation,RENT,Ontario,Current,0
+C101197,62,109337,15674,14.26,606,21.3,27.7,5,D,vacation,MORTGAGE,Prairies,Current,0
+C101198,36,96143,18052,6.61,692,17.5,60.1,9,B,small_business,OWN,Ontario,Current,0
+C101199,58,73512,19181,12.78,683,10.7,61.7,11,D,small_business,MORTGAGE,Prairies,Charged Off,1
+C101200,46,32885,20652,11.39,625,17.4,47.6,1,C,small_business,MORTGAGE,Prairies,Current,0
+C101201,22,32940,19710,7.16,641,19.5,58.2,11,C,credit_card,RENT,Ontario,Current,0
+C101202,34,76112,16150,14.49,617,18.1,58.3,5,E,medical,OWN,Ontario,Current,0
+C101203,23,32681,20003,12.72,579,21.9,68.9,8,D,credit_card,RENT,Atlantic,Current,0
+C101204,54,54095,25014,5.68,701,15.1,58.8,7,A,credit_card,RENT,Prairies,Current,0
+C101205,57,68656,17332,5.22,731,20.4,1.0,12,A,debt_consolidation,RENT,Ontario,Current,0
+C101206,50,35885,20223,11.29,636,24.1,49.0,3,D,debt_consolidation,RENT,Atlantic,Current,0
+C101207,21,37763,16697,9.61,665,19.2,60.2,1,C,small_business,MORTGAGE,Prairies,Current,0
+C101208,32,57391,13473,7.64,701,6.9,40.5,6,B,debt_consolidation,RENT,Atlantic,Current,0
+C101209,43,75105,21660,9.41,644,30.5,53.3,1,C,small_business,RENT,Atlantic,Current,0
+C101210,27,96537,14113,11.59,696,18.5,61.8,3,D,medical,RENT,Ontario,Current,0
+C101211,26,78682,20703,15.43,715,20.4,48.2,10,E,credit_card,OWN,Ontario,Current,0
+C101212,35,61892,18198,8.54,654,15.6,79.0,13,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101213,48,42797,15872,5.9,729,13.1,65.9,11,B,home_improvement,OWN,Ontario,Current,0
+C101214,25,36978,15703,9.45,689,27.3,46.8,5,B,debt_consolidation,OWN,Ontario,Current,0
+C101215,67,47577,14443,9.77,700,27.7,44.4,13,C,small_business,OWN,Atlantic,Current,0
+C101216,42,72004,6479,7.53,788,19.6,1.0,6,B,credit_card,MORTGAGE,Prairies,Current,0
+C101217,29,69667,20680,9.87,708,17.2,41.5,2,C,credit_card,RENT,Ontario,Current,0
+C101218,21,25000,19621,12.25,560,23.8,35.3,12,D,credit_card,RENT,Ontario,Current,0
+C101219,65,42043,23948,5.37,749,15.5,47.9,8,A,credit_card,RENT,West,Current,0
+C101220,48,102953,14280,6.61,792,13.7,43.1,5,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101221,61,62047,31268,6.85,690,18.9,61.4,10,B,debt_consolidation,RENT,Ontario,Current,0
+C101222,57,31645,15342,15.64,669,19.4,75.7,11,F,credit_card,RENT,Ontario,Current,0
+C101223,67,172840,11874,9.34,620,21.3,54.2,3,D,major_purchase,MORTGAGE,Ontario,Current,0
+C101224,62,59099,11044,7.41,642,16.4,93.9,1,A,debt_consolidation,RENT,Prairies,Current,0
+C101225,57,71179,5863,15.79,622,26.7,58.7,8,F,debt_consolidation,RENT,Atlantic,Current,0
+C101226,61,71667,28728,10.8,583,13.7,34.2,0,C,debt_consolidation,RENT,Ontario,Current,0
+C101227,61,50746,27597,10.57,667,23.0,40.6,10,C,credit_card,MORTGAGE,Ontario,Current,0
+C101228,32,43157,22205,16.66,685,16.2,42.5,7,F,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C101229,48,155555,11727,5.99,619,11.0,65.4,3,A,small_business,RENT,Prairies,Current,0
+C101230,67,94037,30679,8.47,632,12.8,36.6,9,B,debt_consolidation,RENT,Atlantic,Current,0
+C101231,61,86671,15538,8.85,623,10.5,49.1,6,C,home_improvement,MORTGAGE,West,Current,0
+C101232,25,77601,16117,6.59,699,23.6,45.2,6,B,debt_consolidation,RENT,Prairies,Current,0
+C101233,26,38120,28061,11.88,638,12.7,45.1,3,D,credit_card,RENT,Ontario,Current,0
+C101234,30,106392,22612,7.18,779,11.6,56.0,10,B,debt_consolidation,OWN,Ontario,Current,0
+C101235,55,40970,33408,7.71,776,23.8,53.2,14,A,small_business,OWN,Atlantic,Current,0
+C101236,39,68015,19741,8.45,729,12.5,66.6,9,B,medical,RENT,Ontario,Current,0
+C101237,50,28632,15221,9.14,688,16.7,43.0,3,C,debt_consolidation,RENT,Atlantic,Current,0
+C101238,27,25000,13717,5.67,746,7.9,65.8,13,A,medical,RENT,Ontario,Current,0
+C101239,23,69095,5071,6.16,677,20.8,25.4,1,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101240,57,41602,16050,13.92,683,26.9,24.4,4,E,credit_card,RENT,Ontario,Current,0
+C101241,34,25000,26012,8.33,641,21.7,31.1,0,B,home_improvement,OWN,Ontario,Current,0
+C101242,23,76365,22192,8.08,748,20.3,44.2,13,B,debt_consolidation,MORTGAGE,West,Current,0
+C101243,31,155443,18142,5.0,789,15.5,62.2,0,A,credit_card,MORTGAGE,Prairies,Current,0
+C101244,36,111893,11035,5.42,714,12.8,36.0,8,B,debt_consolidation,RENT,Ontario,Current,0
+C101245,40,53327,19588,7.55,692,10.8,40.1,3,B,home_improvement,OWN,Ontario,Current,0
+C101246,63,60113,25090,12.67,680,28.5,45.8,3,D,credit_card,MORTGAGE,Ontario,Current,0
+C101247,30,89274,21015,7.57,545,21.9,71.2,9,B,major_purchase,MORTGAGE,Ontario,Charged Off,1
+C101248,49,99206,19167,17.48,631,17.6,45.2,12,F,debt_consolidation,RENT,Ontario,Current,0
+C101249,33,51298,12421,15.94,608,22.8,46.1,0,F,medical,MORTGAGE,Prairies,Late (31-120 days),1
+C101250,44,60802,24070,7.63,721,12.9,22.0,2,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101251,34,68547,2000,7.38,763,7.1,32.5,4,A,home_improvement,OWN,Ontario,Current,0
+C101252,37,76822,20680,7.26,720,16.2,67.5,15,A,debt_consolidation,MORTGAGE,West,Current,0
+C101253,49,56394,35992,10.56,595,16.6,58.4,0,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101254,48,56725,7441,6.02,716,8.3,33.3,2,A,debt_consolidation,RENT,Ontario,Current,0
+C101255,27,111405,16310,15.47,640,10.6,75.3,6,E,home_improvement,MORTGAGE,Ontario,Current,0
+C101256,28,103186,17945,12.33,664,8.6,40.5,5,D,debt_consolidation,OWN,Ontario,Current,0
+C101257,32,74223,14762,14.67,645,18.4,78.1,0,E,credit_card,MORTGAGE,West,Current,0
+C101258,63,129780,25255,8.33,737,17.4,70.2,8,C,vacation,RENT,Ontario,Current,0
+C101259,35,50317,21307,20.3,532,17.9,63.0,9,G,debt_consolidation,RENT,Ontario,Charged Off,1
+C101260,48,124286,19066,5.05,734,19.6,18.2,2,A,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101261,42,76430,23581,7.61,751,17.5,85.0,11,C,debt_consolidation,OWN,Prairies,Current,0
+C101262,37,220000,18117,7.58,607,20.5,62.7,0,B,debt_consolidation,RENT,Atlantic,Current,0
+C101263,22,35010,40259,13.06,624,21.2,48.5,11,F,credit_card,RENT,West,Current,0
+C101264,41,43905,19059,8.7,648,12.5,69.5,4,C,small_business,OWN,Prairies,Current,0
+C101265,67,72291,19367,17.07,616,21.8,67.6,3,E,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101266,65,71593,6027,5.54,674,6.2,73.8,3,A,debt_consolidation,RENT,Ontario,Current,0
+C101267,35,143999,14196,16.29,583,27.8,45.8,13,G,home_improvement,RENT,Ontario,Current,0
+C101268,46,44322,26032,10.03,781,11.4,47.0,8,C,debt_consolidation,RENT,West,Current,0
+C101269,34,89968,8652,8.92,610,24.4,34.2,11,C,credit_card,RENT,Ontario,Charged Off,1
+C101270,64,101023,2897,19.04,528,21.6,74.3,3,G,medical,MORTGAGE,Ontario,Current,0
+C101271,47,82215,18226,6.93,630,23.9,53.4,0,B,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101272,64,38853,27595,8.32,797,8.6,45.0,0,B,credit_card,MORTGAGE,Atlantic,Current,0
+C101273,61,112814,18297,8.62,655,13.3,49.1,7,C,major_purchase,MORTGAGE,Ontario,Current,0
+C101274,36,104109,15647,9.12,723,17.7,41.6,5,A,home_improvement,RENT,West,Current,0
+C101275,42,78418,4991,8.6,680,24.7,34.0,12,B,small_business,RENT,Prairies,Current,0
+C101276,47,65641,21166,7.83,650,28.2,66.4,12,B,small_business,RENT,Atlantic,Current,0
+C101277,32,66287,22629,5.65,711,15.3,73.9,4,A,credit_card,RENT,Ontario,Current,0
+C101278,60,57790,5528,13.34,771,33.9,32.1,6,E,credit_card,MORTGAGE,Ontario,Current,0
+C101279,47,79886,25942,9.09,757,16.0,53.2,6,C,home_improvement,RENT,Atlantic,Current,0
+C101280,30,60719,23360,7.05,655,24.2,59.5,10,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C101281,43,40870,25926,12.01,716,11.4,46.8,10,C,home_improvement,RENT,Ontario,Current,0
+C101282,59,37352,22085,9.34,634,20.9,26.0,10,C,credit_card,RENT,Atlantic,Current,0
+C101283,40,42684,22576,9.44,560,3.1,36.2,0,D,major_purchase,RENT,West,Current,0
+C101284,54,66168,21645,14.6,670,14.6,36.4,5,F,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101285,67,59152,24079,17.11,678,25.8,11.3,15,F,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101286,36,65967,5269,7.7,760,7.3,68.3,5,B,debt_consolidation,MORTGAGE,West,Current,0
+C101287,67,75009,7493,7.84,676,19.5,56.6,2,B,debt_consolidation,RENT,West,Current,0
+C101288,40,45148,12848,11.4,671,24.3,49.9,3,C,home_improvement,MORTGAGE,Ontario,Current,0
+C101289,47,115792,17091,9.07,721,14.5,6.8,0,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101290,57,53079,20717,10.76,702,11.2,15.0,12,C,home_improvement,RENT,West,Current,0
+C101291,24,49264,20273,11.2,636,16.2,53.3,0,D,credit_card,RENT,Prairies,Current,0
+C101292,53,74390,25820,10.69,591,11.2,92.6,9,C,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C101293,47,26201,26039,7.53,708,15.8,34.8,6,B,debt_consolidation,RENT,Prairies,Late (31-120 days),1
+C101294,51,41951,11893,7.71,761,17.2,58.5,1,B,credit_card,OWN,Atlantic,Current,0
+C101295,65,93105,19670,8.98,636,14.4,44.7,14,B,small_business,RENT,Ontario,Current,0
+C101296,43,27396,12065,6.9,759,26.7,44.1,11,A,credit_card,MORTGAGE,Ontario,Current,0
+C101297,64,99003,16682,5.8,742,10.0,66.4,13,A,debt_consolidation,MORTGAGE,West,Current,0
+C101298,47,118186,20253,11.43,699,29.2,41.9,14,D,debt_consolidation,RENT,Prairies,Current,0
+C101299,31,50703,2000,9.92,750,9.2,31.4,14,B,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101300,51,68276,34879,8.71,664,17.0,76.5,11,B,debt_consolidation,RENT,Atlantic,Current,0
+C101301,29,99071,21965,9.53,591,26.3,57.9,8,C,vacation,MORTGAGE,Atlantic,Current,0
+C101302,63,48530,13830,11.22,629,27.4,73.6,11,D,debt_consolidation,RENT,Prairies,Current,0
+C101303,28,88477,31492,9.23,751,13.6,31.4,7,B,debt_consolidation,RENT,Atlantic,Current,0
+C101304,44,44266,15568,14.14,606,24.9,81.2,2,E,major_purchase,RENT,West,Current,0
+C101305,59,48295,18928,15.8,576,25.4,63.3,6,F,home_improvement,MORTGAGE,Prairies,Charged Off,1
+C101306,21,41785,14590,10.14,580,14.2,65.8,7,C,credit_card,MORTGAGE,Ontario,Current,0
+C101307,44,69856,29564,12.41,754,23.8,45.9,0,D,home_improvement,MORTGAGE,Prairies,Current,0
+C101308,44,100819,17265,5.93,769,28.0,33.2,13,A,medical,RENT,Atlantic,Current,0
+C101309,36,55113,19046,17.44,656,25.8,51.6,14,F,debt_consolidation,OTHER,West,Current,0
+C101310,52,33791,26426,9.51,755,20.5,35.5,6,B,debt_consolidation,RENT,Ontario,Current,0
+C101311,36,36783,22096,16.64,646,27.2,69.8,7,F,major_purchase,MORTGAGE,West,Current,0
+C101312,38,71508,17620,11.65,667,7.8,47.1,13,C,small_business,MORTGAGE,West,Current,0
+C101313,33,137290,25773,6.01,715,18.2,19.8,7,A,vacation,MORTGAGE,Prairies,Current,0
+C101314,50,71480,35769,6.83,700,7.9,17.8,11,A,debt_consolidation,RENT,Atlantic,Current,0
+C101315,62,50307,20222,13.21,803,15.4,8.3,8,D,medical,MORTGAGE,Ontario,Current,0
+C101316,29,84523,18817,11.22,711,33.1,58.2,4,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101317,40,53757,19194,7.1,698,13.2,27.4,12,A,home_improvement,RENT,West,Current,0
+C101318,31,50502,27173,12.76,684,14.3,54.7,3,D,major_purchase,MORTGAGE,West,Current,0
+C101319,32,38898,13806,16.35,580,29.1,60.5,3,E,debt_consolidation,RENT,West,Current,0
+C101320,66,112849,16052,9.35,763,11.4,41.6,11,C,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101321,54,25000,7238,9.81,644,14.9,60.6,11,C,credit_card,MORTGAGE,West,Current,0
+C101322,65,85737,9713,5.74,752,23.7,46.5,15,A,major_purchase,MORTGAGE,Prairies,Current,0
+C101323,50,48597,14375,13.56,695,21.3,1.0,11,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101324,52,49779,17608,5.61,723,5.6,40.3,0,B,major_purchase,RENT,Ontario,Current,0
+C101325,54,128225,30384,17.65,619,26.3,62.4,13,F,debt_consolidation,MORTGAGE,Prairies,Charged Off,1
+C101326,51,43419,21752,6.77,703,13.7,77.3,6,B,credit_card,RENT,West,Current,0
+C101327,59,44089,11615,10.2,677,28.8,80.3,0,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101328,36,56462,12904,6.29,670,12.3,26.0,9,B,medical,MORTGAGE,Ontario,Current,0
+C101329,25,72130,27623,6.74,699,22.4,41.8,2,A,debt_consolidation,MORTGAGE,West,Current,0
+C101330,43,49078,25886,13.06,717,33.4,18.4,6,E,credit_card,RENT,Ontario,Current,0
+C101331,21,29489,18197,8.64,674,12.0,77.5,7,C,debt_consolidation,RENT,West,Current,0
+C101332,23,40556,14902,10.23,637,16.6,71.5,1,C,medical,MORTGAGE,Atlantic,Current,0
+C101333,23,106575,25875,17.16,564,26.7,65.6,13,G,small_business,RENT,Atlantic,Current,0
+C101334,24,61923,11047,17.31,653,18.0,54.9,8,G,debt_consolidation,RENT,West,Current,0
+C101335,54,73349,20744,14.21,673,22.9,75.1,15,E,debt_consolidation,RENT,Ontario,Current,0
+C101336,49,53229,33909,8.96,733,14.9,67.1,7,B,credit_card,MORTGAGE,Prairies,Current,0
+C101337,64,44499,19437,9.02,666,16.3,71.7,9,C,credit_card,RENT,Ontario,Current,0
+C101338,34,127377,12571,14.81,646,22.8,60.7,12,F,major_purchase,MORTGAGE,Ontario,Current,0
+C101339,36,55012,20873,8.03,667,17.0,44.5,3,B,credit_card,OWN,Ontario,Current,0
+C101340,44,49045,14710,6.65,710,16.1,61.0,14,A,credit_card,MORTGAGE,West,Current,0
+C101341,57,98053,8241,15.76,689,16.8,63.6,2,E,home_improvement,RENT,West,Current,0
+C101342,64,43258,22907,8.71,728,14.1,42.2,15,C,credit_card,RENT,Ontario,Current,0
+C101343,55,45815,25825,9.62,626,17.2,47.8,10,C,debt_consolidation,RENT,Ontario,Current,0
+C101344,44,60151,15824,19.41,545,23.7,81.3,8,G,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C101345,66,59881,15359,14.37,664,16.4,81.0,3,D,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101346,29,67294,11269,8.81,775,20.3,28.3,9,C,home_improvement,RENT,Ontario,Current,0
+C101347,43,153469,16950,7.11,597,3.8,51.8,8,B,debt_consolidation,RENT,Ontario,Current,0
+C101348,32,69655,14063,10.46,695,12.9,54.7,15,C,credit_card,RENT,Atlantic,Current,0
+C101349,28,25000,10923,5.31,648,13.0,61.1,13,A,debt_consolidation,RENT,Ontario,Current,0
+C101350,39,69344,31245,13.09,601,15.0,46.8,7,E,home_improvement,OWN,Atlantic,Charged Off,1
+C101351,56,60904,21265,14.29,616,32.4,88.9,6,E,debt_consolidation,RENT,Atlantic,Current,0
+C101352,36,61056,22007,9.86,679,16.6,57.3,6,B,credit_card,RENT,Prairies,Current,0
+C101353,59,66881,24184,6.43,673,17.7,59.8,6,B,debt_consolidation,RENT,Ontario,Current,0
+C101354,49,59106,23397,17.8,614,19.1,86.8,0,F,debt_consolidation,RENT,Ontario,Charged Off,1
+C101355,54,58473,15108,5.31,695,14.9,40.3,0,A,debt_consolidation,RENT,West,Current,0
+C101356,32,78895,19908,10.41,600,9.5,54.7,12,C,credit_card,RENT,Ontario,Current,0
+C101357,61,46914,16117,11.91,723,16.8,23.5,4,C,small_business,RENT,Prairies,Current,0
+C101358,30,39087,21069,12.39,699,12.9,45.0,6,D,debt_consolidation,RENT,Ontario,Current,0
+C101359,38,220000,20392,5.64,770,13.1,15.4,11,A,small_business,MORTGAGE,West,Current,0
+C101360,57,43385,15321,12.86,573,1.6,72.0,9,D,credit_card,MORTGAGE,Ontario,Late (31-120 days),1
+C101361,53,62634,8695,7.79,718,8.6,54.1,5,B,credit_card,RENT,Ontario,Current,0
+C101362,35,30545,19024,12.63,695,29.7,43.4,12,D,credit_card,OWN,Ontario,Current,0
+C101363,33,63096,16570,5.75,667,20.8,48.9,2,A,debt_consolidation,RENT,West,Current,0
+C101364,41,39342,4767,11.03,681,27.2,63.3,7,C,home_improvement,OWN,Ontario,Current,0
+C101365,41,49064,21554,8.33,674,27.7,29.7,1,C,small_business,OWN,West,Current,0
+C101366,23,95825,24757,6.78,803,21.2,43.1,8,B,small_business,RENT,Prairies,Current,0
+C101367,32,74043,35698,5.0,830,11.8,49.8,1,A,debt_consolidation,RENT,Prairies,Current,0
+C101368,28,77326,15262,7.93,610,9.2,23.4,15,B,home_improvement,OWN,Atlantic,Current,0
+C101369,28,26983,14229,6.16,839,24.5,48.7,10,B,debt_consolidation,RENT,Prairies,Current,0
+C101370,37,136845,10234,5.17,674,15.5,20.0,3,A,credit_card,RENT,Ontario,Current,0
+C101371,22,35019,19460,14.67,668,40.0,48.5,9,F,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101372,52,119116,19416,11.78,733,15.4,24.3,5,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101373,52,94816,12321,12.81,581,34.8,83.7,8,E,home_improvement,OWN,Atlantic,Late (31-120 days),1
+C101374,31,77637,16775,16.46,619,22.9,33.9,2,G,major_purchase,MORTGAGE,West,Charged Off,1
+C101375,62,40752,4149,6.3,718,24.4,16.8,8,A,debt_consolidation,OWN,Prairies,Current,0
+C101376,48,64101,24485,14.02,688,31.4,51.4,1,D,credit_card,MORTGAGE,West,Current,0
+C101377,35,48440,12605,15.86,627,15.3,46.6,2,F,home_improvement,MORTGAGE,Ontario,Charged Off,1
+C101378,30,60662,17757,11.95,724,16.1,18.9,9,D,medical,MORTGAGE,Atlantic,Current,0
+C101379,41,53506,8013,11.55,684,10.8,58.8,8,C,home_improvement,OTHER,Ontario,Current,0
+C101380,66,25000,13924,11.05,671,9.4,14.6,4,C,debt_consolidation,OWN,Ontario,Current,0
+C101381,21,99191,16043,6.51,784,19.7,22.3,0,A,debt_consolidation,OWN,Prairies,Current,0
+C101382,21,57728,17921,9.3,712,16.6,36.6,6,C,home_improvement,MORTGAGE,Atlantic,Current,0
+C101383,40,48139,21358,18.55,632,24.4,68.1,14,G,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101384,64,46530,28074,16.37,555,27.9,83.4,11,G,medical,RENT,Prairies,Charged Off,1
+C101385,34,70355,23129,5.25,667,2.0,70.6,0,A,medical,OWN,Atlantic,Current,0
+C101386,56,40047,24735,13.72,627,28.5,51.3,15,D,medical,RENT,Prairies,Current,0
+C101387,47,25000,28123,9.56,668,14.1,7.0,6,B,debt_consolidation,RENT,Prairies,Current,0
+C101388,30,71913,21988,16.52,657,26.2,58.6,9,F,home_improvement,RENT,West,Current,0
+C101389,63,75629,17743,5.0,778,19.3,68.0,0,A,home_improvement,MORTGAGE,West,Current,0
+C101390,28,54730,25064,14.55,605,32.1,78.1,4,F,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C101391,44,35719,25511,13.18,715,20.3,55.1,12,E,debt_consolidation,RENT,Ontario,Current,0
+C101392,52,62319,22540,5.79,799,1.0,18.3,5,A,debt_consolidation,RENT,Atlantic,Current,0
+C101393,52,30976,7818,5.0,737,15.4,35.5,2,A,credit_card,RENT,West,Current,0
+C101394,61,37712,12110,13.7,591,22.4,91.9,1,E,medical,RENT,Ontario,Current,0
+C101395,54,42710,16076,8.12,811,7.8,13.2,14,A,major_purchase,RENT,Ontario,Current,0
+C101396,51,87533,23457,10.48,677,19.0,29.3,13,C,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C101397,28,50860,17851,16.26,621,20.0,71.5,0,F,credit_card,RENT,Ontario,Current,0
+C101398,35,48945,25958,8.78,661,8.6,43.5,14,C,debt_consolidation,RENT,Ontario,Current,0
+C101399,37,144295,27207,6.03,653,21.2,30.6,13,B,debt_consolidation,RENT,Ontario,Current,0
+C101400,38,70165,26394,8.53,599,14.1,83.9,5,C,debt_consolidation,MORTGAGE,Atlantic,Late (31-120 days),1
+C101401,26,69741,26439,5.0,759,12.2,51.4,10,A,home_improvement,OWN,Prairies,Current,0
+C101402,25,50698,10741,18.09,549,20.8,53.7,4,G,home_improvement,RENT,Ontario,Charged Off,1
+C101403,41,45781,21378,8.46,850,25.1,14.9,3,B,major_purchase,RENT,Ontario,Current,0
+C101404,54,25000,13747,6.84,642,16.2,89.7,11,B,major_purchase,MORTGAGE,Prairies,Current,0
+C101405,62,92590,6457,8.18,633,17.1,53.1,3,B,debt_consolidation,RENT,West,Current,0
+C101406,65,73258,15988,19.76,620,20.9,79.8,5,G,small_business,MORTGAGE,Atlantic,Charged Off,1
+C101407,43,55236,27273,8.35,808,18.2,55.1,5,A,debt_consolidation,OWN,West,Current,0
+C101408,63,56289,21225,14.92,640,30.4,43.6,2,E,credit_card,MORTGAGE,West,Current,0
+C101409,42,83388,32125,11.79,689,24.0,39.7,13,D,credit_card,OWN,Ontario,Current,0
+C101410,43,29744,19241,14.89,535,25.8,87.8,10,E,debt_consolidation,RENT,West,Charged Off,1
+C101411,30,45915,35135,19.62,555,28.2,86.4,13,G,debt_consolidation,RENT,West,Charged Off,1
+C101412,50,35906,19243,11.59,577,11.3,24.5,8,E,debt_consolidation,RENT,West,Current,0
+C101413,35,132877,18157,17.78,510,16.4,73.7,2,F,debt_consolidation,RENT,West,Current,0
+C101414,43,88791,9044,5.35,730,13.6,43.3,4,A,medical,RENT,Prairies,Current,0
+C101415,65,25000,25774,13.36,513,15.9,45.0,5,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101416,46,30297,14485,9.57,607,10.5,60.5,15,C,credit_card,MORTGAGE,Prairies,Current,0
+C101417,35,56412,13471,10.38,650,4.9,27.9,3,C,vacation,RENT,Prairies,Current,0
+C101418,52,48407,26969,14.67,568,13.1,50.6,11,F,credit_card,MORTGAGE,Ontario,Charged Off,1
+C101419,55,32992,26108,17.66,614,22.2,40.8,1,G,credit_card,RENT,Prairies,Charged Off,1
+C101420,49,143651,25924,12.63,675,19.0,41.1,15,D,medical,RENT,Prairies,Current,0
+C101421,22,68916,15465,10.26,729,12.4,44.3,10,C,debt_consolidation,RENT,Prairies,Current,0
+C101422,31,74137,17643,10.46,721,18.6,28.0,6,C,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101423,27,43853,17581,7.61,765,13.5,70.9,5,B,credit_card,MORTGAGE,Prairies,Current,0
+C101424,65,82870,23478,8.83,702,24.1,56.7,5,B,credit_card,MORTGAGE,West,Current,0
+C101425,35,50453,28875,9.27,719,15.4,78.7,3,B,small_business,RENT,Atlantic,Current,0
+C101426,43,52707,20577,7.2,752,19.9,40.8,9,A,debt_consolidation,RENT,Atlantic,Current,0
+C101427,63,78822,31824,6.51,732,16.4,35.5,13,A,home_improvement,OWN,Atlantic,Current,0
+C101428,67,28766,24280,15.13,614,11.2,86.8,3,E,home_improvement,RENT,West,Current,0
+C101429,31,122843,16356,11.05,662,17.4,40.8,11,C,vacation,RENT,Ontario,Current,0
+C101430,61,64996,23801,19.21,569,13.9,55.7,9,F,debt_consolidation,RENT,Ontario,Late (31-120 days),1
+C101431,55,106556,29942,13.46,681,18.7,62.5,12,D,debt_consolidation,RENT,West,Current,0
+C101432,49,36903,31988,5.89,719,9.8,24.1,12,A,medical,MORTGAGE,Atlantic,Current,0
+C101433,28,39521,26308,5.0,688,17.7,61.8,0,A,home_improvement,RENT,Ontario,Current,0
+C101434,53,35495,18180,7.69,666,7.1,61.3,0,B,debt_consolidation,MORTGAGE,West,Current,0
+C101435,49,67012,16483,17.6,525,24.1,85.4,14,G,debt_consolidation,OWN,Atlantic,Late (31-120 days),1
+C101436,41,61679,22032,8.61,756,20.5,59.4,2,B,small_business,RENT,West,Current,0
+C101437,48,48582,29718,9.16,684,24.4,72.7,9,C,credit_card,RENT,Ontario,Current,0
+C101438,30,37936,21036,17.43,567,17.2,57.1,12,F,credit_card,MORTGAGE,West,Late (31-120 days),1
+C101439,50,33861,21182,16.33,636,24.1,37.8,8,G,major_purchase,MORTGAGE,West,Late (31-120 days),1
+C101440,28,58582,18360,6.04,671,17.8,88.4,0,B,debt_consolidation,OWN,Atlantic,Current,0
+C101441,34,48557,15705,5.84,647,25.8,24.9,0,A,debt_consolidation,RENT,Ontario,Current,0
+C101442,44,43979,16865,5.0,780,4.6,15.7,10,A,home_improvement,MORTGAGE,Prairies,Current,0
+C101443,28,120113,18948,5.0,694,8.6,58.7,14,A,major_purchase,OWN,Ontario,Current,0
+C101444,63,57697,30027,7.24,680,36.1,78.9,5,B,debt_consolidation,RENT,Atlantic,Current,0
+C101445,62,106034,16322,9.09,682,16.1,52.9,8,C,home_improvement,MORTGAGE,Atlantic,Current,0
+C101446,43,47100,18368,16.01,677,9.3,67.9,14,F,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101447,47,66846,11942,9.26,681,13.9,13.7,13,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101448,34,58398,23016,11.35,592,1.0,48.0,8,D,medical,RENT,Ontario,Current,0
+C101449,30,27891,27567,7.99,732,18.2,11.6,10,B,debt_consolidation,RENT,Prairies,Current,0
+C101450,66,113863,29371,15.22,609,26.7,69.6,15,E,debt_consolidation,RENT,Atlantic,Charged Off,1
+C101451,40,56341,19424,13.76,762,13.1,15.0,12,D,small_business,OWN,West,Current,0
+C101452,65,83775,22020,14.18,636,17.7,30.3,6,E,credit_card,RENT,West,Charged Off,1
+C101453,24,42684,16925,16.27,491,29.0,74.7,11,F,credit_card,RENT,Prairies,Late (31-120 days),1
+C101454,26,55593,21696,7.78,722,4.2,65.3,5,B,small_business,OWN,Prairies,Current,0
+C101455,43,40535,20198,6.58,831,5.7,34.2,14,A,debt_consolidation,RENT,Ontario,Current,0
+C101456,57,104422,18408,8.47,789,14.9,50.8,1,B,home_improvement,MORTGAGE,Atlantic,Current,0
+C101457,40,68881,18964,11.59,781,12.7,50.9,3,C,debt_consolidation,RENT,Ontario,Current,0
+C101458,60,70627,21163,13.73,558,20.4,56.0,5,F,debt_consolidation,MORTGAGE,Ontario,Charged Off,1
+C101459,27,110325,15941,7.72,752,7.7,24.0,3,B,home_improvement,RENT,Prairies,Current,0
+C101460,61,100746,16303,14.41,596,22.5,66.8,9,E,debt_consolidation,MORTGAGE,Ontario,Current,0
+C101461,41,84491,29952,9.97,692,17.0,59.7,11,C,major_purchase,MORTGAGE,West,Current,0
+C101462,34,31578,36974,6.87,632,20.3,69.8,14,B,medical,RENT,West,Current,0
+C101463,51,43781,9569,6.44,667,17.9,56.4,8,B,major_purchase,RENT,Ontario,Current,0
+C101464,57,38111,9184,12.97,621,20.9,33.6,9,D,debt_consolidation,RENT,Ontario,Current,0
+C101465,64,83066,11300,11.09,707,9.4,59.8,9,D,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101466,25,64653,17277,7.89,724,21.4,46.0,0,C,major_purchase,RENT,Prairies,Current,0
+C101467,54,32025,24270,9.03,717,14.2,37.9,11,B,credit_card,RENT,West,Current,0
+C101468,35,54999,22139,12.55,584,18.3,52.4,0,D,home_improvement,RENT,Ontario,Current,0
+C101469,44,30566,19204,5.86,707,22.3,35.0,8,A,major_purchase,MORTGAGE,Prairies,Current,0
+C101470,42,58459,21703,14.9,573,17.5,74.6,15,F,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101471,57,28427,13155,7.86,750,26.0,18.3,12,B,debt_consolidation,RENT,Atlantic,Current,0
+C101472,39,75961,16291,7.46,789,25.1,22.7,8,A,home_improvement,OWN,Ontario,Current,0
+C101473,34,70975,17859,8.06,738,23.3,38.9,5,C,credit_card,MORTGAGE,West,Current,0
+C101474,43,141291,6910,8.12,638,11.1,82.2,13,C,debt_consolidation,OWN,Ontario,Current,0
+C101475,52,87688,9871,9.25,529,2.7,81.2,13,C,credit_card,MORTGAGE,West,Current,0
+C101476,60,49498,10149,9.97,583,25.6,28.2,5,C,small_business,RENT,West,Current,0
+C101477,21,86520,23349,17.4,670,24.8,74.8,1,G,credit_card,OWN,Ontario,Current,0
+C101478,47,31922,19717,10.77,658,12.8,75.8,9,C,debt_consolidation,MORTGAGE,West,Current,0
+C101479,24,38828,22277,11.31,639,26.2,32.0,10,C,small_business,MORTGAGE,Prairies,Current,0
+C101480,50,69558,5122,10.33,770,12.0,1.0,14,C,small_business,RENT,Atlantic,Current,0
+C101481,50,25000,7615,6.67,794,12.0,38.9,14,A,medical,RENT,Ontario,Current,0
+C101482,61,58881,22643,10.33,681,21.7,69.8,3,C,debt_consolidation,MORTGAGE,Atlantic,Current,0
+C101483,30,37831,2000,8.01,686,8.7,77.8,4,B,major_purchase,RENT,Atlantic,Current,0
+C101484,58,62667,26572,10.45,651,18.7,36.4,15,D,small_business,MORTGAGE,Prairies,Current,0
+C101485,53,36865,5237,5.0,736,22.6,76.5,5,A,home_improvement,RENT,Ontario,Current,0
+C101486,52,72469,23903,16.38,680,25.5,9.6,7,G,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101487,50,60397,11780,9.82,703,26.7,41.1,4,C,debt_consolidation,RENT,Ontario,Current,0
+C101488,46,112439,25342,16.28,654,30.4,44.3,6,F,credit_card,RENT,Prairies,Current,0
+C101489,23,60056,40457,8.26,744,18.1,65.1,9,C,debt_consolidation,RENT,West,Current,0
+C101490,59,42366,2088,6.09,660,1.0,74.7,4,A,debt_consolidation,MORTGAGE,West,Current,0
+C101491,39,53578,22868,12.95,678,13.3,67.0,6,E,medical,MORTGAGE,Ontario,Current,0
+C101492,25,32699,5343,10.72,642,24.8,28.5,5,D,debt_consolidation,OWN,West,Current,0
+C101493,49,71881,20987,13.25,498,10.1,80.4,1,E,medical,MORTGAGE,Ontario,Late (31-120 days),1
+C101494,65,78076,16553,8.66,563,15.7,68.6,12,C,credit_card,MORTGAGE,Atlantic,Current,0
+C101495,54,181887,18908,12.73,602,21.9,26.1,14,D,major_purchase,MORTGAGE,Ontario,Current,0
+C101496,32,45260,11618,13.8,665,31.3,13.7,7,E,debt_consolidation,MORTGAGE,Prairies,Current,0
+C101497,59,53077,23464,12.98,664,15.5,69.7,3,D,home_improvement,OWN,West,Current,0
+C101498,60,46208,7861,7.47,712,12.0,43.8,10,B,credit_card,MORTGAGE,Atlantic,Current,0
+C101499,36,65871,26691,11.51,765,19.1,19.5,8,D,medical,RENT,Ontario,Current,0

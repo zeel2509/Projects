@@ -1,0 +1,5 @@
+Overall default rate: 12.47%
+Highest-risk grade: G (58.23% default rate)
+Lowest-risk grade: A (1.71% default rate)
+Highest-risk loan purpose: debt_consolidation (13.21%)
+Recommendation: tighten underwriting review for high-risk grades and high-DTI segments.

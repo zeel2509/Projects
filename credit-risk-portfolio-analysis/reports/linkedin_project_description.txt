@@ -1,0 +1,5 @@
+Credit Risk Portfolio Analysis
+
+Built an end-to-end analytics project using Python, SQL, and Power BI-ready outputs to analyze borrower default risk. Explored how loan grade, debt-to-income ratio, utilization rate, and borrower profile affect loan performance, then translated the findings into dashboard metrics and business recommendations.
+
+Tools: Python | SQL | Power BI | Pandas | Matplotlib
