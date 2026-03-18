@@ -1,0 +1,5 @@
+Insurance Claims & Fraud Analytics
+
+Built a fraud-focused analytics project using Python, SQL, and Tableau-ready outputs to analyze claim severity, incident type, policy tenure, and fraud patterns. Designed business insights that can help insurers prioritize investigations and improve claim review processes.
+
+Tools: Python | SQL | Tableau | Pandas | Matplotlib

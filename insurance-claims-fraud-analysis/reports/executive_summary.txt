@@ -1,0 +1,4 @@
+Overall fraud rate: 3.25%
+Highest-risk incident type: Fire (6.01% fraud rate)
+Highest-risk region: MB (4.83% fraud rate)
+Recommendation: prioritize reviews for high-severity, high-amount claims in the riskiest segments.
