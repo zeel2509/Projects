@@ -1,0 +1,7 @@
+Top revenue category: Technology ($969888.60)
+Top revenue region: West ($585239.49)
+Forecast metrics:
+Baseline MAE: 21495.98
+Linear Regression MAE: 18860.17
+
+Recommendation: expand strong-performing categories and monitor discount-heavy items with weaker profit contribution.

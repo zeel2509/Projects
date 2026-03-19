@@ -1,0 +1,2 @@
+Baseline MAE: 21495.98
+Linear Regression MAE: 18860.17

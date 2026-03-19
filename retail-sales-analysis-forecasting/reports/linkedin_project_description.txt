@@ -1,0 +1,5 @@
+Retail Sales Analysis & Forecasting
+
+Built a retail analytics project using Python, SQL, and Power BI/Tableau-ready outputs to evaluate sales, profit, regional performance, product mix, and monthly forecasting accuracy. Included KPI summaries, business recommendations, and a simple forecasting comparison for decision-making.
+
+Tools: Python | SQL | Power BI/Tableau | Pandas | Matplotlib | scikit-learn
